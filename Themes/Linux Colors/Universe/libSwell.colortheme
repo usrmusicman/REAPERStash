@@ -27,14 +27,14 @@ combo_text #ffffff
 combo_text_disabled #2b2a33
 
 checkbox_bg #2b2a33
-checkbox_fg #fffffe
+checkbox_fg #47a4d3
 checkbox_inter #2b2a33
 checkbox_text_disabled #2b2a33
 checkbox_text #ffffff
 
 edit_bg #2b2a33
 edit_bg_disabled #2b2a33
-edit_bg_sel #fffffe
+edit_bg_sel #47a4d3
 edit_cursor #ffffff
 edit_hilight #42414d
 edit_shadow #2b2a33
@@ -42,7 +42,7 @@ edit_text #ffffff
 edit_text_disabled #2b2a33
 edit_text_sel #2b2a33
 
-focus_hilight #fffffe
+focus_hilight #47a4d3
 focusrect #2b2a33
 
 group_hilight #42414d
@@ -56,7 +56,7 @@ label_text #ffffff
 label_text_disabled #42414d
 
 listview_bg #42414d
-listview_bg_sel #fffffe
+listview_bg_sel #47a4d3
 listview_hdr_arrow #ffffff
 listview_hdr_bg #42414d
 listview_hdr_hilight #42414d
@@ -66,7 +66,7 @@ listview_text #ffffff
 listview_text_sel #2b2a33
 
 menu_bg #2b2a33
-menu_bg_sel #fffffe
+menu_bg_sel #47a4d3
 menu_hilight #42414d
 menu_shadow #2b2a33
 menu_scroll #42414d
@@ -78,15 +78,15 @@ menu_text_sel #2b2a33
 
 menubar_bg #2b2a33
 menubar_bg_inactive #2b2a33
-menubar_bg_sel #fffffe
+menubar_bg_sel #47a4d3
 menubar_text #ffffff
 menubar_text_disabled #2b2a33
 menubar_text_sel #2b2a33
 
-progress #fffffe
+progress #47a4d3
 
-scrollbar #fffffe
-scrollbar_fg #fffffe
+scrollbar #47a4d3
+scrollbar_fg #47a4d3
 scrollbar_bg #2b2a33
 
 tab_hilight #42414d
@@ -99,6 +99,6 @@ trackbar_track #42414d
 
 treeview_arrow #ffffff
 treeview_bg #2b2a33
-treeview_bg_sel #fffffe
+treeview_bg_sel #47a4d3
 treeview_text #ffffff
 treeview_text_sel #2b2a33
