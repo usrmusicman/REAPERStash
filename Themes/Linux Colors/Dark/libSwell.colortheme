@@ -8,97 +8,97 @@ scrollbar_width 8
 scrollbar_min_thumb_height 6
 combo_height 24
 
-_3dface #3c3c3c
-_3dshadow #111111
-_3dhilight #3c3c3c
-_3ddkshadow #222222
+_3dface #474747
+_3dshadow #000000
+_3dhilight #474747
+_3ddkshadow #000000
 
-button_bg #111111
-button_shadow #111111
-button_hilight #3c3c3c
+button_bg #202020
+button_shadow #000000
+button_hilight #474747
 button_text #ffffff
-button_text_disabled #222222
+button_text_disabled #999999
 
 combo_arrow #ffffff
-combo_arrow_press #ffffff
-combo_bg #111111
-combo_bg2 #222222
+combo_arrow_press #02ffaf
+combo_bg #202020
+combo_bg2 #202020
 combo_text #ffffff
-combo_text_disabled #222222
+combo_text_disabled #202020
 
-checkbox_bg #111111
-checkbox_fg #019f72
-checkbox_inter #222222
-checkbox_text_disabled #222222
+checkbox_bg #202020
+checkbox_fg #02ffaf
+checkbox_inter #202020
+checkbox_text_disabled #202020
 checkbox_text #ffffff
 
-edit_bg #111111
-edit_bg_disabled #222222
-edit_bg_sel #019f72
+edit_bg #202020
+edit_bg_disabled #202020
+edit_bg_sel #017552
 edit_cursor #ffffff
-edit_hilight #3c3c3c
-edit_shadow #111111
+edit_hilight #424242
+edit_shadow #000000
 edit_text #ffffff
-edit_text_disabled #222222
-edit_text_sel #111111
+edit_text_disabled #202020
+edit_text_sel #ffffff
 
-focus_hilight #019f72
-focusrect #111111
+focus_hilight #017552
+focusrect #202020
 
-group_hilight #3c3c3c
-group_shadow #111111
+group_hilight #424242
+group_shadow #000000
 group_text #ffffff
 
-info_bk #111111
+info_bk #202020
 info_text #ffffff
 
 label_text #ffffff
-label_text_disabled #3c3c3c
+label_text_disabled #424242
 
-listview_bg #3c3c3c
-listview_bg_sel #019f72
+listview_bg #202020
+listview_bg_sel #017552
 listview_hdr_arrow #ffffff
-listview_hdr_bg #3c3c3c
-listview_hdr_hilight #3c3c3c
-listview_hdr_shadow #111111
+listview_hdr_bg #202020
+listview_hdr_hilight #424242
+listview_hdr_shadow #000000
 listview_hdr_text #ffffff
 listview_text #ffffff
-listview_text_sel #111111
+listview_text_sel #ffffff
 
-menu_bg #111111
-menu_bg_sel #019f72
-menu_hilight #3c3c3c
-menu_shadow #111111
-menu_scroll #3c3c3c
+menu_bg #202020
+menu_bg_sel #017552
+menu_hilight #424242
+menu_shadow #000000
+menu_scroll #424242
 menu_scroll_arrow #ffffff
 menu_submenu_arrow #ffffff
 menu_text #ffffff
-menu_text_disabled #3c3c3c
-menu_text_sel #111111
+menu_text_disabled #424242
+menu_text_sel #ffffff
 
-menubar_bg #111111
-menubar_bg_inactive #222222
-menubar_bg_sel #019f72
+menubar_bg #202020
+menubar_bg_inactive #151515
+menubar_bg_sel #017552
 menubar_text #ffffff
-menubar_text_disabled #222222
-menubar_text_sel #111111
+menubar_text_disabled #202020
+menubar_text_sel #ffffff
 
-progress #019f72
+progress #017552
 
-scrollbar #019f72
-scrollbar_fg #019f72
-scrollbar_bg #222222
+scrollbar #017552
+scrollbar_fg #017552
+scrollbar_bg #202020
 
-tab_hilight #3c3c3c
-tab_shadow #111111
+tab_hilight #424242
+tab_shadow #000000
 tab_text #ffffff
 
-trackbar_knob #111111
+trackbar_knob #202020
 trackbar_mark #404040
-trackbar_track #3c3c3c
+trackbar_track #313131
 
 treeview_arrow #ffffff
-treeview_bg #111111
-treeview_bg_sel #019f72
+treeview_bg #202020
+treeview_bg_sel #017552
 treeview_text #ffffff
-treeview_text_sel #111111
+treeview_text_sel #ffffff

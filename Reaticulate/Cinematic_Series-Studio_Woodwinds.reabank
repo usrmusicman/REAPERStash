@@ -1,0 +1,56 @@
+//----------------------------------------------------------------------------
+// Source: Lenard Stockfisch (FishingForSound)
+// https://github.com/jtackaberry/reaticulate/issues/132
+//===========================================================================
+
+//! g="Cinematic Series/Studio Woodwinds" n="Flutes"
+//! id=006ca375-c1df-4195-8d42-099b43b30b35
+Bank * * Cinematic Studio Woodwinds Flutes
+//! c=legato i=legato o=note:24,1/note:32,65
+20 legato
+//! c=long i=note-whole o=note:24/note:32,1
+1 sustain
+//! c=short i=spiccato o=note:29,1
+42 repetitions
+//! c=short i=spiccato o=note:29,33
+41 staccatissimo
+//! c=short i=staccato o=note:29,65
+40 staccato
+//! c=short i=sfz o=note:29,127
+54 sfz
+//! c=long i=trill o=note:27/note:34,1
+70 trills
+//! c=long-dark i=tremolo o=note:28/note:32,1
+11 flutter
+//! c=long-dark i=tremolo o=note:28/note:32,65
+12 flutter legato
+//! c=long-dark i=tremolo o=note:26
+81 measured trem
+//! c=long i=marcato o=note:30,1/note:32,1
+9 marcato
+//! c=long i=legato-runs o=note:30,127/note:32,1
+19 marcato+spic
+
+//! g="Cinematic Series/Studio Woodwinds" n="Non-Flutes"
+//! id=fa3f5a68-7a9d-4675-9dd8-59516868dc9c
+Bank * * Cinematic Studio Woodwinds Non-Flutes
+//! c=legato i=legato o=note:24,1/note:32,65
+20 legato
+//! c=long i=note-whole o=note:24/note:32,1
+1 sustain
+//! c=short i=spiccato o=note:29,1
+42 repetitions
+//! c=short i=spiccato o=note:29,33
+41 staccatissimo
+//! c=short i=staccato o=note:29,65
+40 staccato
+//! c=short i=sfz o=note:29,127
+54 sfz
+//! c=long i=trill o=note:27/note:32,1
+70 trills
+//! c=long-dark i=tremolo o=note:26
+81 measured trem
+//! c=long i=marcato o=note:30,1/note:32,1
+9 marcato
+//! c=long i=legato-runs o=note:30,127/note:32,1
+19 marcato+spic
