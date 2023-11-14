@@ -8,36 +8,36 @@ scrollbar_width 8
 scrollbar_min_thumb_height 6
 combo_height 24
 
-_3dface #bababa
-_3dshadow #303030
-_3dhilight #bababa
-_3ddkshadow #303030
+_3dface #474747
+_3dshadow #000000
+_3dhilight #474747
+_3ddkshadow #000000
 
-button_bg #9a9a9a
-button_shadow #303030
-button_hilight #ababab
+button_bg #ffffff
+button_shadow #000000
+button_hilight #afafaf
 button_text #000000
-button_text_disabled #404040
+button_text_disabled #c0c0c0
 
 combo_arrow #ffffff
 combo_arrow_press #02ffaf
 combo_bg #202020
 combo_bg2 #202020
 combo_text #ffffff
-combo_text_disabled #404040
+combo_text_disabled #202020
 
 checkbox_bg #202020
 checkbox_fg #02ffaf
 checkbox_inter #202020
-checkbox_text_disabled #404040
-checkbox_text #000000
+checkbox_text_disabled #202020
+checkbox_text #ffffff
 
 edit_bg #202020
 edit_bg_disabled #202020
 edit_bg_sel #017552
 edit_cursor #ffffff
 edit_hilight #424242
-edit_shadow #303030
+edit_shadow #000000
 edit_text #ffffff
 edit_text_disabled #202020
 edit_text_sel #ffffff
@@ -46,21 +46,21 @@ focus_hilight #017552
 focusrect #202020
 
 group_hilight #424242
-group_shadow #303030
-group_text #000000
+group_shadow #000000
+group_text #ffffff
 
 info_bk #202020
 info_text #ffffff
 
-label_text #000000
-label_text_disabled #404040
+label_text #ffffff
+label_text_disabled #424242
 
 listview_bg #202020
 listview_bg_sel #017552
 listview_hdr_arrow #ffffff
 listview_hdr_bg #202020
 listview_hdr_hilight #424242
-listview_hdr_shadow #303030
+listview_hdr_shadow #000000
 listview_hdr_text #ffffff
 listview_text #ffffff
 listview_text_sel #ffffff
@@ -68,7 +68,7 @@ listview_text_sel #ffffff
 menu_bg #202020
 menu_bg_sel #017552
 menu_hilight #424242
-menu_shadow #303030
+menu_shadow #000000
 menu_scroll #424242
 menu_scroll_arrow #ffffff
 menu_submenu_arrow #ffffff
@@ -90,7 +90,7 @@ scrollbar_fg #017552
 scrollbar_bg #202020
 
 tab_hilight #424242
-tab_shadow #303030
+tab_shadow #000000
 tab_text #ffffff
 
 trackbar_knob #202020
