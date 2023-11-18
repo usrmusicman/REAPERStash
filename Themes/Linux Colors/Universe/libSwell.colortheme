@@ -40,7 +40,7 @@ edit_hilight #42414d
 edit_shadow #2b2a33
 edit_text #ffffff
 edit_text_disabled #2b2a33
-edit_text_sel #2b2a33
+edit_text_sel #ffffff
 
 focus_hilight #017552
 focusrect #2b2a33
@@ -63,7 +63,7 @@ listview_hdr_hilight #42414d
 listview_hdr_shadow #2b2a33
 listview_hdr_text #ffffff
 listview_text #ffffff
-listview_text_sel #2b2a33
+listview_text_sel #ffffff
 
 menu_bg #2b2a33
 menu_bg_sel #017552
@@ -74,14 +74,14 @@ menu_scroll_arrow #ffffff
 menu_submenu_arrow #ffffff
 menu_text #ffffff
 menu_text_disabled #42414d
-menu_text_sel #2b2a33
+menu_text_sel #ffffff
 
 menubar_bg #2b2a33
 menubar_bg_inactive #2b2a33
 menubar_bg_sel #017552
 menubar_text #ffffff
 menubar_text_disabled #2b2a33
-menubar_text_sel #2b2a33
+menubar_text_sel #ffffff
 
 progress #017552
 
@@ -101,4 +101,4 @@ treeview_arrow #ffffff
 treeview_bg #2b2a33
 treeview_bg_sel #017552
 treeview_text #ffffff
-treeview_text_sel #2b2a33
+treeview_text_sel #ffffff
