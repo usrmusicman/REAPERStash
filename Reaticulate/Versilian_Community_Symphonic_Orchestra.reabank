@@ -1,11 +1,9 @@
 //----------------------------------------------------------------------------
 // Source: https://github.com/usrmusicman/REAPERStash.git
-// Library: Versilian Community Symphonic Orchestra
-
+// Library: usrmusicman - Versilian Community Symphonic Orchestra
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Horn 1"
-//! id=fc145e59-dbb3-486b-9501-4ae7187ae325
 Bank * * Solo Horn 1
 
 //! c=long i=note-whole o=note:24
@@ -27,7 +25,6 @@ Bank * * Solo Horn 1
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Horn 2"
-//! id=4a6930c0-a569-4da7-b90d-207c6ae92226
 Bank * * Solo Horn 2
 
 //! c=long i=note-whole o=note:24
@@ -37,7 +34,6 @@ Bank * * Solo Horn 2
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Horn 3 Bb"
-//! id=47123aed-692e-4589-ab05-96584b150802
 Bank * * Solo Horn 3
 
 //! c=long i=note-whole o=note:24
@@ -51,19 +47,17 @@ Bank * * Solo Horn 3
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Horn Section"
-//! id=4ecec35d-377a-4020-8e04-1ae988f6080e
 Bank * * Horn Section
 
 //! c=long i=note-whole o=note:24
 1 Sustain + Attack
 //! c=long i=note-whole o=note:25
 2 NV Sustain
-//! c=long i=fx o=note:26
+//! c=fx i=fx o=note:26
 90 FX
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Trumpet 1"
-//! id=96c0bfdb-283f-4c3f-8451-a699b67ebfd4
 Bank * * Solo Trumpet 1
 
 //! c=long i=note-whole o=note:24
@@ -95,7 +89,6 @@ Bank * * Solo Trumpet 1
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Trumpet 2"
-//! id=de481b77-353b-4a54-8a78-ef73a9ed9aff
 Bank * * Solo Trumpet 2
 
 //! c=long i=note-whole o=note:24
@@ -112,18 +105,17 @@ Bank * * Solo Trumpet 2
 105 Grace Muted Sustain
 //! c=short i=scoop o=note:30
 31 Doit
-//! c=sort i=fall o=note:31
+//! c=short i=fall o=note:31
 111 Fall Short
 //! c=short i=fall o=note:32
 112 Fall Long
 //! c=short i=multitongued o=note:33
 75 Ornament
-//! c=long i=fx o=note:34
+//! c=fx i=fx o=note:34
 65 FX
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Trumpet 3"
-//! id=22e415ad-578b-4d5f-a7b8-37e5d87c973c
 Bank * * Solo Trumpet 3
 
 //! c=long i=note-whole o=note:24
@@ -138,14 +130,13 @@ Bank * * Solo Trumpet 3
 44 Staccato
 //! c=long i=tremolo o=note:29
 11 Flutter
-//! c=sort i=fall o=note:30
+//! c=short i=fall o=note:30
 111 Fall
 //! c=short i=scoop o=note:31
 31 Doit
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Trumpet Section"
-//! id=a0c108f6-711e-4cc2-a937-a01c1cb6d795
 Bank * * Trumpet Section
 
 //! c=long i=note-whole o=note:24
@@ -158,7 +149,7 @@ Bank * * Trumpet Section
 75 Doubles
 //! c=long i=tremolo o=note:28
 11 Flutter
-//! c=sort i=fall o=note:29
+//! c=short i=fall o=note:29
 111 Fall
 //! c=long i=note-whole o=note:30
 62 Cup Muted Sustain
@@ -166,12 +157,10 @@ Bank * * Trumpet Section
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Trumpet Section TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Brass/Trumpet Section"
-//! id=fcab8905-6954-4500-8796-2d4d2a1faa28
 Bank * * Trumpet Section TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Cornet 1"
-//! id=0bb5ebb1-4563-4bf5-9c9d-64699bca0728
 Bank * * Solo Cornet 1
 
 //! c=long i=note-whole o=note:24
@@ -183,7 +172,6 @@ Bank * * Solo Cornet 1
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Cornet 2"
-//! id=01a3913c-33ca-496f-8859-e1de5079fbd7
 Bank * * Solo Cornet 2
 
 //! c=long i=note-whole o=note:24
@@ -195,7 +183,6 @@ Bank * * Solo Cornet 2
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Alto Trumpet"
-//! id=88631c69-a696-4920-8f93-6a023fe4a8b0
 Bank * * Solo Alto Trumpet
 
 //! c=long i=note-whole o=note:24
@@ -217,7 +204,6 @@ Bank * * Solo Alto Trumpet
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Alto Saxhorn"
-//! id=a6bdc748-7973-4c0a-a1fc-6b381dfb0081
 Bank * * Solo Alto Saxhorn
 
 //! c=long i=note-whole o=note:24
@@ -233,7 +219,6 @@ Bank * * Solo Alto Saxhorn
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Mellophone"
-//! id=5d706712-032b-4af8-a5ea-9f1660a91056
 Bank * * Solo Mellophone
 
 //! c=long i=note-whole o=note:24
@@ -255,7 +240,6 @@ Bank * * Solo Mellophone
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Euphonium 1"
-//! id=9f011f7e-83d8-4790-b0d8-bb68d8dd9ffe
 Bank * * Solo Euphonium 1
 
 //! c=long i=note-whole o=note:24
@@ -270,12 +254,10 @@ Bank * * Solo Euphonium 1
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Euphonium 2"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Brass/Solo Euphonium 1"
-//! id=24592f6d-f436-490a-ad4c-49f2a75c2ea0
 Bank * * Solo Euphonium 2
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Tenor Trombone 1"
-//! id=297aeb74-7c49-4337-9be4-efa215c1e360
 Bank * * Solo Tenor Trombone 1
 
 //! c=long i=note-whole o=note:24
@@ -297,7 +279,6 @@ Bank * * Solo Tenor Trombone 1
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Tenor Trombone 2"
-//! id=9027e252-e7ad-41ee-b0c1-043cb0762094
 Bank * * Solo Tenor Trombone 2
 
 //! c=long i=note-whole o=note:24
@@ -313,7 +294,6 @@ Bank * * Solo Tenor Trombone 2
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Tenor Trombone Section"
-//! id=46a9714d-90ba-4eec-bdcf-ca9d4fc6dd48
 Bank * * Tenor Trombone Section
 
 //! c=long i=note-whole o=note:0
@@ -322,18 +302,16 @@ Bank * * Tenor Trombone Section
 2 NV Sustain
 //! c=short i=staccato o=note:2
 44 Staccato
-//! c=long i=fx o=note:3
+//! c=fx i=fx o=note:3
 90 FX
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Tenor Trombone Section TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Brass/Tenor Trombone Section"
-//! id=e89fe142-c58e-4a5f-b4d4-c3a4e0b26f53
 Bank * * Tenor Trombone Section TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Bass Trombone 1"
-//! id=83f2b6b0-dfe7-47f8-827f-3474c4f9734b
 Bank * * Solo Bass Trombone 1
 
 //! c=long i=note-whole o=note:84
@@ -349,7 +327,6 @@ Bank * * Solo Bass Trombone 1
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Bass Trombone 2"
-//! id=c37bc3c1-03fb-43b7-9bcc-c21394c94f3a
 Bank * * Solo Bass Trombone 2
 
 //! c=long i=note-whole o=note:84
@@ -368,12 +345,11 @@ Bank * * Solo Bass Trombone 2
 88 Muted Sustain
 //! c=long i=note-whole o=note:91
 89 2nd Muted Sustain
-//! c=long i=fx o=note:92
+//! c=fx i=fx o=note:92
 90 FX
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Bass Trombone Section"
-//! id=20e0b6db-8286-438e-9310-da4fb2c29d4d
 Bank * * Bass Trombone Section
 
 //! c=long i=note-whole o=note:24
@@ -391,7 +367,6 @@ Bank * * Bass Trombone Section
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Tuba 1"
-//! id=859de6db-3471-4d3d-b7e5-719c57dc5836
 Bank * * Solo Tuba 1
 
 //! c=long i=note-whole o=note:24
@@ -402,12 +377,10 @@ Bank * * Solo Tuba 1
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Tuba 2"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Brass/Solo Tuba 1"
-//! id=301fbfbe-3c99-479f-8db0-67247a3ec8aa
 Bank * * Solo Tuba 2
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Tuba 3"
-//! id=60cfd7f5-dc0b-4929-9a93-fe20e04e8f39
 Bank * * Solo Tuba 3
 
 //! c=long i=note-whole o=note:84
@@ -420,12 +393,11 @@ Bank * * Solo Tuba 3
 89 Blast
 //! c=long i=sfz o=note:88
 63 Sfz
-//! c=long i=fx o=note:89
+//! c=fx i=fx o=note:89
 90 Chewy
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Brass" n="Solo Ophicleide"
-//! id=741e19b3-e59e-4a41-8cd4-312f8e92c7da
 Bank * * Solo Ophicleide
 
 //! c=long i=note-whole o=note:24
@@ -439,7 +411,6 @@ Bank * * Solo Ophicleide
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Ensembles" n="Combined Strings"
-//! id=b297effb-cfe8-4e4d-aef8-0ae3c1a99888
 Bank * * Combined Strings
 
 //! c=long i=note-whole o=note:12
@@ -461,7 +432,6 @@ Bank * * Combined Strings
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Ensembles" n="Combined Winds"
-//! id=6db6b0d4-cf5a-447d-be1c-89fada8d7b63
 Bank * * Combined Winds
 
 //! c=long i=note-whole o=note:24
@@ -476,18 +446,15 @@ Bank * * Combined Winds
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Ensembles" n="Horn Solos"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Sopranino Recorder"
-//! id=b326dace-3a39-43d0-8382-e4b9ac40e4ec
 Bank * * Horn Solos
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Ensembles" n="Trumpet & Cornet"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Ensembles/Horn Solos"
-//! id=36f25dea-cf58-4ba3-9a8e-efd7a27cc1f3
 Bank * * Trumpet & Cornet
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Keys" n="Italian Harpsichord"
-//! id=8363ed48-e65e-42ac-9318-0ab76837564a
 Bank * * Italian Harpsichord
 
 //! c=long i=note-whole o=note:24
@@ -497,7 +464,6 @@ Bank * * Italian Harpsichord
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Keys" n="French Harpsichord"
-//! id=2d5c0ef2-bdb0-4b73-ab8f-b7b7422be45f
 Bank * * French Harpsichord
 
 //! c=long i=note-whole o=note:21
@@ -509,7 +475,6 @@ Bank * * French Harpsichord
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Mallets" n="Xylophone"
-//! id=fa7836a4-38e0-4012-95e0-09c722d85e61
 Bank * * Xylophone
 
 //! c=short i=note-whole o=note:24
@@ -525,7 +490,6 @@ Bank * * Xylophone
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Mallets" n="Ethnic Xylophone"
-//! id=10be6346-254f-4d80-88d2-0dcc781d5aaa
 Bank * * Ethnic Xylophone
 
 //! c=short i=note-whole o=note:24
@@ -537,7 +501,6 @@ Bank * * Ethnic Xylophone
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Mallets" n="Tubular Bells"
-//! id=8750c9f0-5b04-4528-8e7b-e44b735a5bc3
 Bank * * Tubular Bells
 
 //! c=short i=note-whole o=note:24
@@ -551,7 +514,6 @@ Bank * * Tubular Bells
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Mallets" n="Vibraphone"
-//! id=8b232946-5a9f-4856-9fd5-a703997db03c
 Bank * * Vibraphone
 
 //! c=short i=note-whole o=note:24
@@ -569,7 +531,6 @@ Bank * * Vibraphone
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Mallets" n="Marimba"
-//! id=69253003-2e08-4fd4-a3b1-fe70bc33201f
 Bank * * Marimba
 
 //! c=short i=note-whole o=note:24
@@ -579,7 +540,6 @@ Bank * * Marimba
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Percussion" n="Timpani"
-//! id=17164465-6a39-49f0-9b41-5ae5ccc7fb11
 Bank * * Timpani
 
 //! c=short i=note-whole o=note:24
@@ -601,7 +561,6 @@ Bank * * Timpani
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Percussion" n="Brake Drum I"
-//! id=7bfce368-6de5-4dc9-a28f-c76415a4c0b3
 Bank * * Brake Drum I
 
 //! c=short i=note-whole o=note:24
@@ -623,17 +582,15 @@ Bank * * Brake Drum I
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Percussion" n="Bell Tree"
-//! id=a10faf9e-24a8-4d57-be25-4a0374065001
 Bank * * Bell Tree
 
 //! c=short i=note-whole o=note:24
 62 Single Hits
-//! c=long i=fx o=note:25
+//! c=fx i=fx o=note:25
 63 Sustained
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Percussion" n="Sustained Glasses 2"
-//! id=6d34982a-827c-4f0c-9a95-2220a8f70821
 Bank * * Sustained Glasses 2
 
 //! c=short i=note-whole o=note:24
@@ -647,7 +604,6 @@ Bank * * Sustained Glasses 2
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Solo Violin"
-//! id=c6c31056-6f8f-43fa-b258-7aec58b102cc
 Bank * * Solo Violin
 
 //! c=long i=note-whole o=note:24
@@ -670,12 +626,10 @@ Bank * * Solo Violin
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Solo Violin TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Strings/Solo Violin"
-//! id=79bcd692-7b72-4ccf-97f5-866f882cf098
 Bank * * Solo Violin TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Solo Viola"
-//! id=8a6d30ec-fcb2-4127-a151-a4b6c174dba3
 Bank * * Solo Viola
 
 //! c=long i=note-whole o=note:24
@@ -694,24 +648,22 @@ Bank * * Solo Viola
 58 Col Legno
 //! c=long i=tremolo o=note:31
 11 Tremolo
-//! c=long i=fx o=note:32
+//! c=fx i=fx o=note:32
 19 Distorted Sustain
 //! c=long i=harmonics o=note:33
 10 Harmonic Sustain
 //! c=long i=scoop o=note:34
 105 Harm Call UP
-//! c=long i=fx o=note:35
+//! c=fx i=fx o=note:35
 90 FX
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Solo Viola TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Strings/Solo Viola"
-//! id=21b4ac80-ca05-43de-9801-7b28afca657c
 Bank * * Solo Viola TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Solo Cello"
-//! id=ee2435ce-1143-4c04-b92c-d6553b3f91b5
 Bank * * Solo Cello
 
 //! c=long i=note-whole o=note:24
@@ -732,18 +684,16 @@ Bank * * Solo Cello
 11 Tremolo
 //! c=long i=harmonics o=note:32
 10 Harmonic Sustain
-//! c=long i=fx o=note:33
+//! c=fx i=fx o=note:33
 90 FX
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Solo Cello TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Strings/Solo Cello"
-//! id=53714d77-1477-4b6a-be23-d6b55ee0e1d2
 Bank * * Solo Cello TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Solo Contrabass 1 C0"
-//! id=cf6d8350-97a5-404c-b1d7-7c16f59138d8
 Bank * * Solo Contrabass 1 C0
 
 //! c=long i=note-whole o=note:84
@@ -762,18 +712,16 @@ Bank * * Solo Contrabass 1 C0
 11 Tremolo
 //! c=long i=harmonics o=note:91
 10 Harmonic Sustain
-//! c=long i=fx o=note:92
+//! c=fx i=fx o=note:92
 90 FX
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Solo Contrabass 1 E0"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Strings/Solo Contrabass 1 C0"
-//! id=98545b48-a832-48cc-b6b4-e81ef6d2aebb
 Bank * * Solo Contrabass 1 E0
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Solo Contrabass 2"
-//! id=f4c957ba-c6b2-4bbb-a43e-742ff260aabc
 Bank * * Solo Contrabass 2
 
 //! c=long i=note-whole o=note:72
@@ -790,12 +738,10 @@ Bank * * Solo Contrabass 2
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Solo Contrabass 2 TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Strings/Solo Contrabass 2"
-//! id=cf2984b1-c03d-4516-bb49-c7b6df97f817
 Bank * * Solo Contrabass 2 TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Violin Section"
-//! id=ce3101e0-cba6-4c56-82ed-81623c2145d9
 Bank * * Violin Section
 
 //! c=long i=note-whole o=note:24
@@ -830,12 +776,10 @@ Bank * * Violin Section
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Violin Section TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Strings/Violin Section"
-//! id=498833ff-4733-4e88-861c-bce458c33ae6
 Bank * * Violin Section TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Violin Section B"
-//! id=a847afb1-d740-446f-a754-e9f76dad8670
 Bank * * Violin Section B
 
 //! c=long i=note-whole o=note:24
@@ -866,12 +810,10 @@ Bank * * Violin Section B
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Violin Section B TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Strings/Violin Section B"
-//! id=64bc3a97-bc7a-4446-9344-b9cd949a851c
 Bank * * Violin Section B TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Viola Section"
-//! id=e0592d24-f436-48f5-98d8-5dd94734b4d3
 Bank * * Viola Section
 
 //! c=long i=note-whole o=note:24
@@ -900,12 +842,10 @@ Bank * * Viola Section
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Viola Section TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Strings/Viola Section"
-//! id=48f54c72-890d-409e-96e1-a241c4d594d7
 Bank * * Viola Section TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Cello Section"
-//! id=0867fab9-d9c8-43ae-8d27-452a8dc2abc9
 Bank * * Cello Section
 
 //! c=long i=note-whole o=note:96
@@ -926,7 +866,7 @@ Bank * * Cello Section
 11 Tremolo
 //! c=long i=note-whole o=note:104
 10 Distorted Sustain
-//! c=long i=fx o=note:105
+//! c=fx i=fx o=note:105
 58 Sustain + Singing
 //! c=long i=note-whole o=note:106
 107 NV > Vib
@@ -940,12 +880,10 @@ Bank * * Cello Section
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Cello Section TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Strings/Cello Section"
-//! id=894eb8d0-5004-443c-a889-5865d583c2e7
 Bank * * Cello Section TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Strings" n="Harp"
-//! id=3ae2fa16-8ade-48f1-9c3d-9b78562d1412
 Bank * * Harp
 
 //! c=long i=note-whole o=note:12
@@ -961,7 +899,6 @@ Bank * * Harp
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Piccolo"
-//! id=a234eba8-10b0-45c4-9d68-6cdb2035b983
 Bank * * Solo Piccolo
 
 //! c=long i=vibrato o=note:24
@@ -975,7 +912,6 @@ Bank * * Solo Piccolo
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Flute 1"
-//! id=2a37bdae-adc5-472d-8975-c56c4140caa7
 Bank * * Solo Flute 1
 
 //! c=long i=note-whole o=note:24
@@ -998,12 +934,10 @@ Bank * * Solo Flute 1
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Flute 2"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Solo Piccolo"
-//! id=02671891-1b32-41a4-b086-046d102efacd
 Bank * * Solo Flute 2
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Flute 3"
-//! id=bb5a686e-c8e7-4c26-9e14-09ec3f78aa40
 Bank * * Solo Flute 3
 
 //! c=long i=note-whole o=note:24
@@ -1019,7 +953,6 @@ Bank * * Solo Flute 3
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Flute 4"
-//! id=80ff25ce-fffa-413d-84a8-94b57ec30929
 Bank * * Solo Flute 4
 
 //! c=long i=vibrato o=note:24
@@ -1029,7 +962,6 @@ Bank * * Solo Flute 4
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Oboe 1"
-//! id=165e0684-0b5e-4055-ba67-1a051d1fcac7
 Bank * * Solo Oboe 1
 
 //! c=long i=note-whole o=note:24
@@ -1042,18 +974,15 @@ Bank * * Solo Oboe 1
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Oboe 2"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Solo Oboe 1"
-//! id=c1aeaf7e-e7c7-4406-86b8-654dbd8b5e0b
 Bank * * Solo Oboe 2
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo English Horn"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Solo Oboe 1"
-//! id=3f3c85f3-cf42-4463-8df1-291ed381d36e
 Bank * * Solo English Horn
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Bb Clarinet 1"
-//! id=d3246c4f-8d10-429d-815d-18251f2b0ff7
 Bank * * Solo Bb Clarinet 1
 
 //! c=long i=note-whole o=note:24
@@ -1067,7 +996,6 @@ Bank * * Solo Bb Clarinet 1
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Bb Clarinet 2"
-//! id=8a3cd3e0-1b55-46af-af68-08840c0cc467
 Bank * * Solo Bb Clarinet 2
 
 //! c=long i=note-whole o=note:24
@@ -1079,7 +1007,6 @@ Bank * * Solo Bb Clarinet 2
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Bass Clarinet"
-//! id=d8d225e4-211f-47a8-bf06-aaa71aa3a821
 Bank * * Solo Bass Clarinet
 
 //! c=long i=note-whole o=note:0
@@ -1090,18 +1017,15 @@ Bank * * Solo Bass Clarinet
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Bass Clarinet TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Solo Bass Clarinet"
-//! id=2807357c-45d4-4996-b2e7-f849d273d965
 Bank * * Solo Bass Clarinet TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Solo Bassoon 1"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Solo Oboe 1"
-//! id=1aa6cc18-8ef4-4e70-a069-ecf822b5cb2d
 Bank * * Solo Bassoon 1
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Blown Bottle"
-//! id=7d4cf2cf-262d-4ca4-829c-3ab788ae860e
 Bank * * Blown Bottle
 
 //! c=long i=note-whole o=note:24
@@ -1112,12 +1036,10 @@ Bank * * Blown Bottle
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Blown Bottle TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Blown Bottle"
-//! id=b8840a8e-430b-4e6a-9b66-6911e87b3e6e
 Bank * * Blown Bottle TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Flutophone"
-//! id=80d4e3d0-61d9-4e5d-9f3a-f163a6945e64
 Bank * * Flutophone
 
 //! c=long i=note-whole o=note:24
@@ -1128,33 +1050,29 @@ Bank * * Flutophone
 44 Staccato
 //! c=long i=tremolo o=note:27
 11 Flutter
-//! c=long i=fx o=note:28
+//! c=fx i=fx o=note:28
 90 FX
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Flutophone TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Flutophone"
-//! id=96b28b1a-fc27-47ad-9b6d-6ba104ada253
 Bank * * Flutophone TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Small Ocarina"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Blown Bottle"
-//! id=3778430a-7bc2-4e89-abdd-5402b3bd2484
 Bank * * Small Ocarina
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Small Ocarina TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Small Ocarina"
-//! id=057ce515-abe0-40bd-ac03-53776afbbb74
 Bank * * Small Ocarina TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Tin Whistle"
-//! id=34d4778c-3e84-4e80-9f92-29f35c4b1d61
 Bank * * Tin Whistle
 
-//! c=long i=fx o=note:24
+//! c=fx i=fx o=note:24
 90 Combined Articulations
 //! c=long i=note-whole o=note:25
 1 NV Sustain
@@ -1172,12 +1090,10 @@ Bank * * Tin Whistle
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Tin Whistle TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Tin Whistle"
-//! id=17cb095a-c9de-4ee0-90ed-e45dd53d349e
 Bank * * Tin Whistle TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Wooden Fife"
-//! id=28ecb082-703e-40ac-bd0c-d9660a12ad56
 Bank * * Wooden Fife
 
 //! c=long i=note-whole o=note:0
@@ -1192,24 +1108,20 @@ Bank * * Wooden Fife
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Wooden Fife TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Wooden Fife"
-//! id=23c33a3d-a383-4499-a610-ff6fb9ab28e5
 Bank * * Wooden Fife TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Mayan Flute"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Blown Bottle"
-//! id=82c7382a-fe90-49d8-8d32-7f35155dbc57
 Bank * * Mayan Flute
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Mayan Flute TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Mayan Flute"
-//! id=5d5c38d5-dcef-49d0-a6b9-899bcfbfaf58
 Bank * * Mayan Flute TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Native American Flute"
-//! id=3db76e93-bd35-4539-94b6-f8f48b3d5a33
 Bank * * Native American Flute
 
 //! c=long i=note-whole o=note:24
@@ -1228,12 +1140,10 @@ Bank * * Native American Flute
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Native American Flute TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Native American Flute"
-//! id=502bb0fe-8fdb-4106-b803-8891fcbf5337
 Bank * * Native American Flute TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Tibetan Flute"
-//! id=638e974a-b5cb-4ad6-9a31-6f25b1812e79
 Bank * * Tibetan Flute
 
 //! c=long i=note-whole o=note:24
@@ -1250,12 +1160,10 @@ Bank * * Tibetan Flute
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Tibetan Flute TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Tibetan Flute"
-//! id=dc539716-941d-4381-b6f8-6938f439a064
 Bank * * Tibetan Flute TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Sopranino Recorder"
-//! id=1b1beb02-d210-4435-a99e-78aed8bfeeca
 Bank * * Sopranino Recorder
 
 //! c=long i=note-whole o=note:24
@@ -1266,12 +1174,10 @@ Bank * * Sopranino Recorder
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Sopranino Recorder TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Sopranino Recorder"
-//! id=879469a1-b4bc-47f9-9079-632ae8c2ba39
 Bank * * Sopranino Recorder TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Soprano Recorder"
-//! id=62978dc3-a108-4160-b4ae-08643fb68784
 Bank * * Soprano Recorder
 
 //! c=long i=note-whole o=note:24
@@ -1286,36 +1192,30 @@ Bank * * Soprano Recorder
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Soprano Recorder TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Soprano Recorder"
-//! id=0c8f4692-a47d-4995-b39b-0dcd2ab03b36
 Bank * * Soprano Recorder TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Alto Recorder"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Solo Flute 3"
-//! id=a5b9b518-722e-42cb-9ff0-34ddd9c9e670
 Bank * * Alto Recorder
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Alto Recorder TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Alto Recorder 3"
-//! id=40c2d2fc-99ec-4874-95e8-1137b8b59f6a
 Bank * * Alto Recorder TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Tenor Recorder"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Solo Oboe 1"
-//! id=7500e2a2-241e-45c9-8efc-263ad18edd6b
 Bank * * Tenor Recorder
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Tenor Recorder TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Tenor Recorder"
-//! id=457bda17-5b7f-4283-9005-236b808a5663
 Bank * * Tenor Recorder TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Bass Recorder"
-//! id=c7355924-1cf4-48b4-9e60-a6f0f9bf26d6
 Bank * * Bass Recorder
 
 //! c=long i=note-whole o=note:24
@@ -1328,7 +1228,7 @@ Bank * * Bass Recorder
 42 Pop
 //! c=long i=tremolo o=note:28
 11 Flutter
-//! c=long i=fx o=note:29
+//! c=fx i=fx o=note:29
 19 Distorted Sustain
 //! c=short i=staccato o=note:30
 62 Key Taps
@@ -1336,17 +1236,14 @@ Bank * * Bass Recorder
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Bass Recorder TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Bass Recorder"
-//! id=e9996c05-7d5e-43b7-8fff-7c6262503454
 Bank * * Bass Recorder TM
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Contrabass Recorder"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Bass Recorder"
-//! id=7bf5806e-594a-44a0-92c3-346b3092fd41
 Bank * * Contrabass Recorder
 
 //----------------------------------------------------------------------------
 //! g="Versilian Studios/Chamber Orchestra Professional/Woodwinds" n="Contrabass Recorder TM"
 //! clone="Versilian Studios/Chamber Orchestra Professional/Woodwinds/Contrabass Recorder"
-//! id=716fc53a-8f37-4f68-9087-b07e39944ec3
 Bank * * Contrabass Recorder TM

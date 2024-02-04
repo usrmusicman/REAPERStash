@@ -1,0 +1,42 @@
+//----------------------------------------------------------------------------
+// Source: usrmusicman - https://github.com/usrmusicman/REAPERStash.git
+// Library: Spitfire - Appassionata Strings
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Appassionata Strings" n="Violins 1"
+Bank * * Violins 1
+
+//! c=legato i=legato o=note:0
+20 Legato
+//! c=legato i=legato o=note:1
+21 Legato Slurred
+//! c=long i=note-whole o=note:2
+1 Sustain
+//! c=short-dark i=fx o=note:3
+106 Hairpin Short
+//! c=short-dark i=fx o=note:4
+107 Hairpin Medium
+//! c=fx i=fx o=note:5
+108 Hairpin Bow Change
+//! c=short i=staccato o=note:6
+44 Glancing Attack
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Appassionata Strings" n="Violins 2"
+//! clone="Spitfire/Appassionata Strings/Violins 1"
+Bank * * Violins 2
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Appassionata Strings" n="Violas"
+//! clone="Spitfire/Appassionata Strings/Violins 1"
+Bank * * Violas
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Appassionata Strings" n="Cellos"
+//! clone="Spitfire/Appassionata Strings/Violins 1"
+Bank * * Cellos
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Appassionata Strings" n="Basses"
+//! clone="Spitfire/Appassionata Strings/Violins 1"
+Bank * * Basses

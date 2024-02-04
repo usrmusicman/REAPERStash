@@ -1,0 +1,164 @@
+//----------------------------------------------------------------------------
+// Source: usrmusicman - https://github.com/usrmusicman/REAPERStash.git
+// Library: Abbey Road One (Expansions)
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road One/Expansions" n="Legendary Low Strings"
+Bank * * Legendary Low Strings
+
+//! c=legato i=legato o=note:0
+20 Legato Epic (8va)
+//! c=long i=note-whole o=note:1
+1 Long (8va)
+//! c=short i=staccato o=note:2
+44 Staccato (8va)
+//! c=short i=spiccato o=note:3
+42 Spiccato (8va)
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road One/Expansions" n="Soaring High Strings"
+Bank * * Soaring High Strings
+
+//! c=legato i=legato o=note:0
+20 Soaring Legato
+//! c=long i=note-whole o=note:1
+1 Long
+//! c=short i=staccato o=note:2
+42 Spiccato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road One/Expansions" n="Sparkling Woodwinds"
+Bank * * Sparkling Woodwinds
+
+//! c=legato i=legato o=note:0
+20 Sparkling Legato (8va)
+//! c=long i=note-whole o=note:1
+1 Long (8va)
+//! c=short i=staccato o=note:2
+44 Staccato (8va)
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road One/Expansions" n="Wondrous Flutes"
+Bank * * Wondrous Flutes
+
+//! c=legato i=legato o=note:0
+20 Wondrous Legato (8va)
+//! c=long i=note-whole o=note:1
+1 Long (8va)
+//! c=short i=staccato o=note:2
+44 Staccato (8va)
+//! c=short i=marcato o=note:3
+52 Marcato (8va)
+//! c=short i=trill-min2 o=note:4
+70 Mordent Minor 2nd (8va)
+//! c=short i=trill-maj2 o=note:5
+71 Mordent Major 2nd (8va)
+//! c=short i=trill-min3 o=note:6
+72 Mordent Minor 3rd (8va)
+//! c=short i=trill-maj3 o=note:7
+73 Mordent Major 3rd (8va)
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road One/Expansions" n="Grand Brass"
+Bank * * Grand Brass
+
+//! c=legato i=legato o=note:0
+20 Legato (8va)
+//! c=long i=note-whole o=note:1
+1 Long (8va)
+//! c=short i=staccato o=note:2
+44 Staccato (8va)
+//! c=short i=tenuto o=note:3
+50 Tenuto (8va)
+//! c=short i=crescendo o=note:4
+106 Swells Short
+//! c=short i=crescendo o=note:5
+107 Swells Medium
+//! c=short i=crescendo o=note:6
+108 Swells Long
+//! c=legato i=legato o=note:7
+21 Soaring Legato
+//! c=long i=note-whole o=note:8
+2 Soaring Long
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road One/Expansions" n="Mysterious Reeds"
+Bank * * Mysterious Reeds
+
+//! c=legato i=legato o=note:0
+20 Legato
+//! c=long i=note-whole o=note:1
+1 Long
+//! c=short i=staccato o=note:2
+44 Staccato
+//! c=legato i=legato o=note:3
+21 Mysterious Legato (8va)
+//! c=long i=note-whole o=note:4
+2 Mysterious Long (8va)
+//! c=short i=staccato o=note:5
+41 Mysterious Staccato (8va)
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road One/Expansions" n="Themeatic Horns"
+Bank * * Themeatic Horns
+
+//! c=legato i=legato o=note:0
+20 Legato
+//! c=legato i=legato o=note:1
+21 Lyrical Legato
+//! c=long i=note-whole o=note:2
+1 Long
+//! c=long i=sfz o=note:3
+19 Long SFZ
+//! c=short i=staccato o=note:4
+42 Staccatissimo
+//! c=short i=staccato o=note:5
+44 Staccato
+//! c=short i=tenuto o=note:6
+50 Tenuto
+//! c=short i=marcato o=note:7
+52 Marcato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road One/Expansions" n="Themeatic Trumpets"
+Bank * * Themeatic Trumpets
+
+//! c=legato i=legato o=note:0
+20 Legato
+//! c=long i=note-whole o=note:1
+1 Long
+//! c=long i=sfz o=note:2
+19 Long SFZ
+//! c=short i=staccato o=note:3
+42 Staccatissimo
+//! c=short i=staccato o=note:4
+44 Staccato
+//! c=short i=tenuto o=note:5
+50 Tenuto
+//! c=short i=marcato o=note:6
+52 Marcato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road One/Expansions" n="Vibrant Reeds"
+Bank * * Vibrant Reeds
+
+//! c=legato i=legato o=note:0
+20 Legato (8va)
+//! c=long i=note-whole o=note:1
+1 Long (8va)
+//! c=short i=staccato o=note:2
+44 Staccato (8va)
+//! c=legato i=legato o=note:3
+21 Vibrant Legato (8va)
+//! c=long i=note-whole o=note:4
+2 Vibrant Long (8va)
+//! c=short i=staccato o=note:5
+41 Vibrant Staccato (8va)
+//! c=short i=trill-min2 o=note:6
+70 Mordent Minor 2nd (8va)
+//! c=short i=trill-maj2 o=note:7
+71 Mordent Major 2nd (8va)
+//! c=short i=trill-min3 o=note:8
+72 Mordent Minor 3rd (8va)
+//! c=short i=trill-maj3 o=note:9
+73 Mordent Major 3rd (8va)

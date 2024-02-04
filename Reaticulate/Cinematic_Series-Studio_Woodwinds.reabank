@@ -1,10 +1,9 @@
 //----------------------------------------------------------------------------
-// Source: Lenard Stockfisch (FishingForSound)
-// https://github.com/jtackaberry/reaticulate/issues/132
-//===========================================================================
+// Source: Lenard Stockfisch (FishingForSound) - https://github.com/jtackaberry/reaticulate/issues/132
+// Changes: usrmusicman - https://github.com/usrmusicman/REAPERStash.git
+// Library: Cinematic Series - Studio Woodwinds
 
 //! g="Cinematic Series/Studio Woodwinds" n="Flutes"
-//! id=006ca375-c1df-4195-8d42-099b43b30b35
 Bank * * Cinematic Studio Woodwinds Flutes
 //! c=legato i=legato o=note:24,1/note:32,65
 20 legato
@@ -32,7 +31,6 @@ Bank * * Cinematic Studio Woodwinds Flutes
 19 marcato+spic
 
 //! g="Cinematic Series/Studio Woodwinds" n="Non-Flutes"
-//! id=fa3f5a68-7a9d-4675-9dd8-59516868dc9c
 Bank * * Cinematic Studio Woodwinds Non-Flutes
 //! c=legato i=legato o=note:24,1/note:32,65
 20 legato

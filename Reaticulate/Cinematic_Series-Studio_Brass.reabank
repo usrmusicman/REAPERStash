@@ -1,10 +1,10 @@
 //----------------------------------------------------------------------------
 // Source: axb312 - https://vi-control.net/community/threads/reaticulate-articulation-management-for-reaper-0-3-0-now-available.66851/post-4326513
-//
+// Changes: usrmusicman - https://github.com/usrmusicman/REAPERStash.git
+// Library: Cinematic Series - Studio Brass
 
 //! g="Cinematic Series/Studio Brass" n="Section"
 //! chase=1,2,5,11,20,64-69
-//! id=b2f74d6f-67dd-42f1-858d-07f1e19c09b6
 Bank * * Cinematic Studio Brass - Section
 
 //! c=legato i=legato o=note:24,1/note:34,65
