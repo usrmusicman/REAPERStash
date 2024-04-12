@@ -48,7 +48,7 @@ menu_submenu_arrow #575757
 menubar_bg #31363b ; defaults to menu_bg
 menubar_text #e0e0e0 ; defaults to menu_text
 menubar_text_disabled #808080
-menubar_bg_sel #0080ff ; defaults to menu_bg_sel
+menubar_bg_sel #31363b ; defaults to menu_bg_sel
 menubar_text_sel #e0e0e0 ; defaults to menu_text_sel
 trackbar_track #e0e0e0
 trackbar_mark #606060
