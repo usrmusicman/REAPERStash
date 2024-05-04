@@ -45,12 +45,12 @@ menu_text_disabled #808080
 menu_scroll #404040
 ; menu_scroll_arrow #606060 ; defaults to _3dshadow
 menu_submenu_arrow #575757
-menubar_bg #dee0e2 ; defaults to menu_bg
-menubar_text #0f0f0f ; defaults to menu_text
-menubar_text_disabled #808080
-menubar_bg_sel #dee0e2 ; defaults to menu_bg_sel
-menubar_text_sel #0f0f0f ; defaults to menu_text_sel
-trackbar_track #e0e0e0
+menubar_bg #0e0e0e ; change this value to match your system's active window theme color
+menubar_bg_inactive #292e32 ; change this value to match your system's inactive window theme color
+menubar_text #e0e0e0 ; change this to your system's theme font color
+menubar_text_disabled #808080 ; change this to your system's theme inactive font color
+menubar_bg_sel #101010 ; defaults to menu_bg_sel
+menubar_text_sel #e0e0e0 ; defaults to menu_text_sel
 trackbar_mark #606060
 trackbar_knob #303030
 progress #0080ff

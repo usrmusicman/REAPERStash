@@ -1,0 +1,104 @@
+default_font_face Noto Sans
+default_font_size 14
+menubar_height 24
+menubar_font_size 14
+menubar_spacing_width 8
+menubar_margin_width 6
+scrollbar_width 14
+scrollbar_min_thumb_height 4
+combo_height 24
+
+_3dface #474747
+_3dshadow #000000
+_3dhilight #474747
+_3ddkshadow #000000
+
+button_bg #202020
+button_shadow #000000
+button_hilight #474747
+button_text #ffffff
+button_text_disabled #999999
+
+combo_arrow #ffffff
+combo_arrow_press #355dff
+combo_bg #202020
+combo_bg2 #202020
+combo_text #ffffff
+combo_text_disabled #202020
+
+checkbox_bg #202020
+checkbox_fg #355dff
+checkbox_inter #202020
+checkbox_text_disabled #202020
+checkbox_text #ffffff
+
+edit_bg #202020
+edit_bg_disabled #202020
+edit_bg_sel #2e51de
+edit_cursor #ffffff
+edit_hilight #424242
+edit_shadow #000000
+edit_text #ffffff
+edit_text_disabled #202020
+edit_text_sel #ffffff
+
+focus_hilight #2e51de
+focusrect #202020
+
+group_hilight #424242
+group_shadow #000000
+group_text #ffffff
+
+info_bk #202020
+info_text #ffffff
+
+label_text #ffffff
+label_text_disabled #424242
+
+listview_bg #202020
+listview_bg_sel #2e51de
+listview_hdr_arrow #ffffff
+listview_hdr_bg #202020
+listview_hdr_hilight #424242
+listview_hdr_shadow #000000
+listview_hdr_text #ffffff
+listview_text #ffffff
+listview_text_sel #ffffff
+
+menu_bg #202020
+menu_bg_sel #2e51de
+menu_hilight #424242
+menu_shadow #000000
+menu_scroll #424242
+menu_scroll_arrow #ffffff
+menu_submenu_arrow #ffffff
+menu_text #ffffff
+menu_text_disabled #424242
+menu_text_sel #ffffff
+
+menubar_bg #0e0e0e ; change this value to match your system's active window theme color
+menubar_bg_inactive #292e32 ; change this value to match your system's inactive window theme color
+menubar_bg_sel #2e51de
+menubar_text #ffffff ; change this to your system's theme font color
+menubar_text_disabled #202020 ; change this to your system's theme inactive font color
+menubar_text_sel #ffffff ; change this to your system's theme font color
+
+progress #2e51de
+
+scrollbar #2e51de
+scrollbar_fg #2e51de
+scrollbar_bg #202020
+
+tab_hilight #424242
+tab_shadow #000000
+tab_text #ffffff
+
+trackbar_knob #202020
+trackbar_mark #404040
+trackbar_track #313131
+
+treeview_arrow #ffffff
+treeview_bg #202020
+treeview_bg_sel #2e51de
+treeview_text #ffffff
+treeview_text_sel #ffffff
