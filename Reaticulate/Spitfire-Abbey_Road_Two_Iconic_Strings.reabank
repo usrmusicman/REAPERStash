@@ -1,0 +1,238 @@
+//----------------------------------------------------------------------------
+// Source: usrmusicman - https://github.com/usrmusicman/REAPERStash.git
+// Library: Spitfire - Abbey Road Two: Iconic Strings
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Ensemble" n="Long"
+Bank * * Ensemble Long
+
+//! c=long i=note-whole o=note:0
+1 Long
+//! c=long-dark i=sul-pont o=note:1
+13 Long Sul Pont
+//! c=long-light i=sul-tasto o=note:2
+17 Long Sul Tasto
+//! c=long i=trill-maj2 o=note:3
+71 Trill M2
+//! c=long i=trill-min2 o=note:4
+70 Trill m2
+//! c=long-dark i=tremolo o=note:5
+11 Tremolo
+//! c=long-light i=flautando o=note:6
+8 Long Flautando
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Ensemble" n="Short"
+Bank * * Ensemble Short
+
+//! c=long i=marcato o=note:0
+9 Long Marcato
+//! c=short i=staccato o=note:1
+40 Staccato
+//! c=short i=spiccato o=note:2
+42 Spiccato
+//! c=short i=spiccato o=note:3
+41 Spiccatissimo
+//! c=short-light i=pizz o=note:4
+56 Pizzicato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Ensemble" n="All In One"
+Bank * * Ensemble All In One
+
+//! c=long i=note-whole o=note:0
+1 Long
+//! c=long-dark i=sul-pont o=note:1
+13 Long Sul Pont
+//! c=long-light i=sul-tasto o=note:2
+17 Long Sul Tasto
+//! c=long i=trill-maj2 o=note:3
+71 Trill M2
+//! c=long i=trill-min2 o=note:4
+70 Trill m2
+//! c=long-dark i=tremolo o=note:5
+11 Tremolo
+//! c=long-light i=flautando o=note:6
+8 Long Flautando
+//! c=long i=marcato o=note:7
+9 Long Marcato
+//! c=short i=staccato o=note:8
+40 Staccato
+//! c=short i=spiccato o=note:9
+42 Spiccato
+//! c=short i=spiccato o=note:10
+41 Spiccatissimo
+//! c=short-light i=pizz o=note:11
+56 Pizzicato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Violin 1" n="Legato"
+Bank * * Violin 1 Legato
+
+//! c=legato-dark i=legato o=note:0
+20 Performance Legato
+//! c=legato-light i=legato o=note:1
+33 Legato (Slurred)
+//! c=legato-light i=legato o=note:2
+31 Legato (Portamento)
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Violin 1" n="Long"
+Bank * * Violin 1 Long
+
+//! c=long i=note-whole o=note:0
+1 Long
+//! c=long-dark i=sul-pont o=note:1
+13 Long Sul Pont
+//! c=long-light i=sul-tasto o=note:2
+17 Long Sul Tasto
+//! c=long-dark i=harmonics o=note:3
+29 Long Harmonics
+//! c=long i=trill-maj2 o=note:4
+71 Trill M2
+//! c=long i=trill-min2 o=note:5
+70 Trill m2
+//! c=long-dark i=tremolo o=note:6
+11 Tremolo
+//! c=long-light i=tremolo o=note:7
+81 Tremolo (150BPM)
+//! c=long-light i=tremolo o=note:8
+82 Tremolo (180BPM)
+//! c=long-light i=flautando o=note:9
+8 Long Flautando
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Violin 1" n="Short"
+Bank * * Violin 1 Short
+
+//! c=short i=spiccato-brushed o=note:0
+48 Spiccato Brushed
+//! c=long i=marcato o=note:1
+9 Long Marcato
+//! c=short i=staccato o=note:2
+40 Staccato
+//! c=short i=spiccato o=note:3
+42 Spiccato
+//! c=short i=spiccato o=note:4
+41 Spiccatissimo
+//! c=short-light i=pizz o=note:5
+56 Pizzicato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Violin 1" n="All In One"
+Bank * * Violin 1 All In One
+
+//! c=legato i=legato o=note:0
+20 Performance Legato
+//! c=long i=note-whole o=note:1
+1 Long
+//! c=long-dark i=sul-pont o=note:2
+13 Long Sul Pont
+//! c=long-light i=sul-tasto o=note:3
+17 Long Sul Tasto
+//! c=long-dark i=harmonics o=note:4
+29 Long Harmonics
+//! c=long i=trill-maj2 o=note:5
+71 Trill M2
+//! c=long i=trill-min2 o=note:6
+70 Trill m2
+//! c=long-dark i=tremolo o=note:7
+11 Tremolo
+//! c=long-light i=tremolo o=note:8
+81 Tremolo (150BPM)
+//! c=long-light i=tremolo o=note:9
+82 Tremolo (180BPM)
+//! c=long-light i=flautando o=note:10
+8 Long Flautando
+//! c=short i=spiccato-brushed o=note:11
+48 Spiccato Brushed
+//! c=long i=marcato o=note:12
+9 Long Marcato
+//! c=short i=staccato o=note:13
+40 Staccato
+//! c=short i=spiccato o=note:14
+42 Spiccato
+//! c=short i=spiccato o=note:15
+41 Spiccatissimo
+//! c=short-light i=pizz o=note:16
+56 Pizzicato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Violin 2" n="Legato"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Legato"
+Bank * * Violin 2 Legato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Violin 2" n="Long"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Long"
+Bank * * Violin 2 Long
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Violin 2" n="Short"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Short"
+Bank * * Violin 2 Short
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Violin 2" n="All In One"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/All In One"
+Bank * * Violin 2 All In One
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Viola" n="Legato"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Legato"
+Bank * * Viola Legato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Viola" n="Long"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Long"
+Bank * * Viola Long
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Viola" n="Short"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Short"
+Bank * * Viola Short
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Viola" n="All In One"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/All In One"
+Bank * * Viola All In One
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Cello" n="Legato"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Legato"
+Bank * * Cello Legato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Cello" n="Long"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Long"
+Bank * * Cello Long
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Cello" n="Short"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Short"
+Bank * * Cello Short
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Cello" n="All In One"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/All In One"
+Bank * * Cello All In One
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Double Bass" n="Legato"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Legato"
+Bank * * Double Bass Legato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Double Bass" n="Long"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Long"
+Bank * * Double Bass Long
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Double Bass" n="Short"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/Short"
+Bank * * Double Bass Short
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Abbey Road Two/Iconic Strings/Double Bass" n="All In One"
+//! clone="Spitfire/Abbey Road Two/Iconic Strings/Violin 1/All In One"
+Bank * * Double Bass All In One

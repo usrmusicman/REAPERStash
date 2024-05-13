@@ -6,9 +6,9 @@
 //! g="Spitfire/Appassionata Strings" n="Violins 1"
 Bank * * Violins 1
 
-//! c=legato i=legato o=note:0
+//! c=legato-dark i=legato o=note:0
 20 Legato
-//! c=legato i=legato o=note:1
+//! c=legato-light i=legato o=note:1
 21 Legato Slurred
 //! c=long i=note-whole o=note:2
 1 Sustain
