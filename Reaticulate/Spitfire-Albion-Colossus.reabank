@@ -1,0 +1,193 @@
+//----------------------------------------------------------------------------
+// Source: usrmusicman - https://github.com/usrmusicman/REAPERStash.git
+// Library: Albion Colossus
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Low Strings" n="Longs"
+Bank * * Longs
+
+//! c=long i=note-whole o=note:0
+1 Long
+//! c=legato i=legato o=note:1
+20 Legato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Low Strings" n="Shorts"
+Bank * * Shorts
+
+//! c=short i=spiccato o=note:0
+42 Spiccato
+//! c=short i=staccato o=note:1
+44 Staccato
+//! c=short i=marcato o=note:2
+52 Marcato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Low Strings" n="Hairpins"
+Bank * * Hairpins
+
+//! c=short-dark i=fx o=note:0
+106 Hairpin Short
+//! c=short-dark i=fx o=note:1
+107 Hairpin Medium
+//! c=long-dark i=fx o=note:2
+108 Hairpin Long
+//! c=fx i=crescendo o=note:3
+110 Crescendo
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Low Strings" n="Additional Longs"
+Bank * * Additional Longs
+
+//! c=long-light i=flautando o=note:0
+8 Flautando
+//! c=long-dark i=sul-pont o=note:1
+13 Sul Pont
+//! c=long-light i=sul-tasto o=note:2
+17 Sul Tasto
+//! c=long-dark i=tremolo o=note:3
+11 Tremolo
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Low Strings" n="Additional Shorts"
+Bank * * Additional Shorts
+
+//! c=short-light i=pizz o=note:0
+56 Pizzicato
+//! c=short-dark i=pizz-bartok o=note:1
+57 Bartok Pizz
+//! c=short-light i=col-legno o=note:2
+58 Col Legno
+//! c=short-dark i=staccato-breath o=note:3
+59 Jete
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/High Strings" n="Longs"
+//! clone="Spitfire/Albion Colossus/Low Strings/Longs"
+Bank * * Longs
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/High Strings" n="Shorts"
+//! clone="Spitfire/Albion Colossus/Low Strings/Shorts"
+Bank * * Shorts
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/High Strings" n="Hairpins"
+//! clone="Spitfire/Albion Colossus/Low Strings/Hairpins"
+Bank * * Hairpins
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/High Strings" n="Additional Longs"
+//! clone="Spitfire/Albion Colossus/Low Strings/Additional Longs"
+Bank * * Additional Longs
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/High Strings" n="Additional Shorts"
+//! clone="Spitfire/Albion Colossus/Low Strings/Additional Shorts"
+Bank * * Additional Shorts
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Brass" n="Longs"
+//! clone="Spitfire/Albion Colossus/Low Strings/Longs"
+Bank * * Longs
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Brass" n="Shorts"
+Bank * * Shorts
+
+//! c=short i=staccato o=note:0
+42 Staccatissimo
+//! c=short i=staccato o=note:1
+44 Staccato
+//! c=short i=marcato o=note:2
+52 Marcato
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Brass" n="Hairpins"
+//! clone="Spitfire/Albion Colossus/Low Strings/Hairpins"
+Bank * * Hairpins
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Horns" n="Longs"
+//! clone="Spitfire/Albion Colossus/Brass/Longs"
+Bank * * Longs
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Horns" n="Shorts"
+//! clone="Spitfire/Albion Colossus/Brass/Shorts"
+Bank * * Shorts
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Horns" n="Hairpins"
+//! clone="Spitfire/Albion Colossus/Brass/Hairpins"
+Bank * * Hairpins
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Woodwinds" n="Longs"
+//! clone="Spitfire/Albion Colossus/Brass/Longs"
+Bank * * Longs
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Woodwinds" n="Shorts"
+//! clone="Spitfire/Albion Colossus/Brass/Shorts"
+Bank * * Shorts
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Woodwinds" n="Hairpins"
+//! clone="Spitfire/Albion Colossus/Brass/Hairpins"
+Bank * * Hairpins
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Flutes" n="Longs"
+//! clone="Spitfire/Albion Colossus/Brass/Longs"
+Bank * * Longs
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Flutes" n="Shorts"
+//! clone="Spitfire/Albion Colossus/Brass/Shorts"
+Bank * * Shorts
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Flutes" n="Hairpins"
+//! clone="Spitfire/Albion Colossus/Brass/Hairpins"
+Bank * * Hairpins
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Piccolos" n="Longs"
+//! clone="Spitfire/Albion Colossus/Brass/Longs"
+Bank * * Longs
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Piccolos" n="Shorts"
+//! clone="Spitfire/Albion Colossus/Brass/Shorts"
+Bank * * Shorts
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Piccolos" n="Hairpins"
+//! clone="Spitfire/Albion Colossus/Brass/Hairpins"
+Bank * * Hairpins
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Guitars" n="Longs"
+Bank * * Longs
+
+//! c=long i=note-whole o=note:0
+1 Long
+//! c=long-dark i=harmonics o=note:1
+29 Long Harmonic
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Guitars" n="Shorts"
+//! clone="Spitfire/Albion Colossus/Brass/Shorts"
+Bank * * Shorts
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/Albion Colossus/Guitars" n="FX"
+Bank * * FX
+
+//! c=short-dark i=fx o=note:0
+106 Marcato Bend
+//! c=short-dark i=fx o=note:1
+107 Dive Bombs
+//! c=long-dark i=fx o=note:2
+108 Dead Notes
