@@ -1,0 +1,2537 @@
+//----------------------------------------------------------------------------
+// Source: https://github.com/usrmusicman/REAPERStash.git
+// Library: usrmusicman - Spitfire Symphony Orchestra
+
+//************************************************************************************
+//Strings: Violins 1: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violins" n="Violins 1: All techniques"
+//! m="Set patch to UACC"
+//! id=337e6e05-dd3c-63be-b34b-0c03acd7cfec
+Bank * * Violins 1: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long CS"
+//! c=long i=con-sord o=note:1
+1 Long CS
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:2
+2 Long Harmonics
+
+//"Long Flautando"
+//! c=long i=flautando o=note:3
+3 Long Flautando
+
+//"Long Sul Pont"
+//! c=long i=sul-pont o=note:4
+4 Long Sul Pont
+
+//"Long Sul Tasto"
+//! c=long i=sul-tasto o=note:5
+5 Long Sul Tasto
+
+//"Long Sul G"
+//! c=long i=sul-g o=note:6
+6 Long Sul G
+
+//"Marcato Attack"
+//! c=short i=marcato-half o=note:7
+7 Marcato Attack
+
+//"Spiccato"
+//! c=short i=spiccato o=note:8
+8 Spiccato
+
+//"Short 0.5"
+//! c=short i=tenuto-eighth o=note:9
+9 Short 0.5
+
+//"Short 1.0"
+//! c=short i=tenuto-half o=note:10
+10 Short 1.0
+
+//"Short Brushed"
+//! c=short i=spiccato-brushed o=note:11
+11 Short Brushed
+
+//"Short Brushed CS"
+//! c=short i=spiccato-brushed-con-sord o=note:12
+12 Short Brushed CS
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:13
+13 Short Harmonics
+
+//"Short CS"
+//! c=short i=staccato-con-sord o=note:14
+14 Short CS
+
+//"Pizzicato"
+//! c=short i=pizz o=note:15
+15 Pizzicato
+
+//"Pizzicato Bartok"
+//! c=short i=pizz-bartok o=note:16
+16 Pizzicato Bartok
+
+//"Col Legno"
+//! c=short i=col-legno o=note:17
+17 Col Legno
+
+//"Long CS Sul Pont"
+//! c=long i=con-sord-sul-pont o=note:18
+18 Long CS Sul Pont
+
+//"Long Super Sul Tasto"
+//! c=long i=sul-tasto-super o=note:19
+19 Long Super Sul Tasto
+
+//"Long (Rachm.)"
+//! c=long i=vibrato o=note:20
+20 Long (Rachm.)
+
+//"Long CS Blend"
+//! c=long i=con-sord-blend o=note:21
+21 Long CS Blend
+
+//"Tremelo"
+//! c=long i=tremolo o=note:22
+22 Tremelo
+
+//"Trem Sul Pont"
+//! c=long i=tremolo-sul-pont o=note:23
+23 Trem Sul Pont
+
+//"Trem CS MS (150BPM)"
+//! c=long i=tremolo-con-sord o=note:24
+24 Trem CS MS (150BPM)
+
+//"Trem MS (150BPM)"
+//! c=long i=tremolo o=note:25
+25 Trem MS (150BPM)
+
+//"Trem MS (180BPM)"
+//! c=long i=tremolo o=note:26
+26 Trem MS (180BPM)
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:27
+27 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:28
+28 Trill (Major 2nd)
+
+//"Trill (Minor 3rd)"
+//! c=long i=trill-min3 o=note:29
+29 Trill (Minor 3rd
+
+//"Trill (Major 3rd)"
+//! c=long i=trill-maj3 o=note:30
+30 Trill (Major 3rd)
+
+//"Fx"
+//! c=fx i=fx o=note:31
+31 Fx
+
+//************************************************************************************
+//Strings: Violins 1: Core techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violins" n="Violins 1: Core techniques"
+//! m="Set patch to UACC"
+//! id=e49b7519-ab0a-1432-ab20-dd0a43e263b7
+Bank * * Violins 1: Core techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long CS"
+//! c=long i=con-sord o=note:1
+1 Long CS
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:2
+2 Long Harmonics
+
+//"Long Flautando"
+//! c=long i=flautando o=note:3
+3 Long Flautando
+
+//"Long Sul Pont"
+//! c=long i=sul-pont o=note:4
+4 Long Sul Pont
+
+//"Long Sul Tasto"
+//! c=long i=sul-tasto o=note:5
+5 Long Sul Tasto
+
+//"Long Sul G"
+//! c=long i=sul-g o=note:6
+6 Long Sul G
+
+//"Marcato Attack"
+//! c=short i=marcato-half o=note:7
+7 Marcato Attack
+
+//"Spiccato"
+//! c=short i=spiccato o=note:8
+8 Spiccato
+
+//"Short 0.5"
+//! c=short i=tenuto-eighth o=note:9
+9 Short 0.5
+
+//"Short 1.0"
+//! c=short i=tenuto-half o=note:10
+10 Short 1.0
+
+//"Short Brushed"
+//! c=short i=spiccato-brushed o=note:11
+11 Short Brushed
+
+//"Short Brushed CS"
+//! c=short i=spiccato-brushed-con-sord o=note:12
+12 Short Brushed CS
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:13
+13 Short Harmonics
+
+//"Short CS"
+//! c=short i=staccato-con-sord o=note:14
+14 Short CS
+
+//"Pizzicato"
+//! c=short i=pizz o=note:15
+15 Pizzicato
+
+//"Pizzicato Bartok"
+//! c=short i=pizz-bartok o=note:16
+16 Pizzicato Bartok
+
+//"Col Legno"
+//! c=short i=col-legno o=note:17
+17 Col Legno
+
+//************************************************************************************
+//Strings: Violins 1: Decorative techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violins" n="Violins 1: Decorative techniques"
+//! m="Set patch to UACC"
+//! id=68bfcf34-9d2b-76d6-5fe3-25caa7872da6
+Bank * * Violins 1: Decorative techniques
+
+//"Long CS Sul Pont"
+//! c=long i=con-sord-sul-pont o=note:0
+0 Long CS Sul Pont
+
+//"Long Super Sul Tasto"
+//! c=long i=sul-tasto-super o=note:1
+1 Long Super Sul Tasto
+
+//"Long (Rachm.)"
+//! c=long i=vibrato o=note:2
+2 Long (Rachm.)
+
+//"Long CS Blend"
+//! c=long i=con-sord-blend o=note:3
+3 Long CS Blend
+
+//"Tremelo"
+//! c=long i=tremolo o=note:4
+4 Tremelo
+
+//"Trem Sul Pont"
+//! c=long i=tremolo-sul-pont o=note:5
+5 Trem Sul Pont
+
+//"Trem CS MS (150BPM)"
+//! c=long i=tremolo-con-sord o=note:6
+6 Trem CS MS (150BPM)
+
+//"Trem MS (150BPM)"
+//! c=long i=tremolo o=note:7
+7 Trem MS (150BPM)
+
+//"Trem MS (180BPM)"
+//! c=long i=tremolo o=note:8
+8 Trem MS (180BPM)
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:9
+9 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:10
+10 Trill (Major 2nd)
+
+//"Trill (Minor 3rd)"
+//! c=long i=trill-min3 o=note:11
+11 Trill (Minor 3rd
+
+//"Trill (Major 3rd)"
+//! c=long i=trill-maj3 o=note:12
+12 Trill (Major 3rd)
+
+//"Fx"
+//! c=fx i=fx o=note:13
+13 Fx
+
+//************************************************************************************
+//Strings: Solo Violin 1: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violins" n="Solo Violin 1: All techniques"
+//! m="Set patch to UACC"
+//! id=fdb861d0-c826-843e-9776-4cfc637b3590
+Bank * * Solo Violin 1: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Spiccato"
+//! c=short i=spiccato o=note:1
+1 Spiccato
+
+//"staccato"
+//! c=short i=staccato o=note:2
+2 staccato
+
+//"Pizzicato"
+//! c=short i=pizz o=note:3
+3 Pizzicato
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:4
+4 Short Harmonics
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:5
+5 Long Harmonics
+
+//************************************************************************************
+//Strings: Violins 2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violins" n="Violins 2: All techniques"
+// Clone from Violins 1: All techniques
+//! clone=337e6e05-dd3c-63be-b34b-0c03acd7cfec
+Bank * * Violins 2: All techniques
+
+//************************************************************************************
+//Strings: Violins 2: Core techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violins" n="Violins 2: Core techniques"
+// Clone from Violins 1: Core techniques
+//! clone=e49b7519-ab0a-1432-ab20-dd0a43e263b7
+Bank * * Violins 2: Core techniques
+
+//************************************************************************************
+//Strings: Violins 2: Decorative techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violins" n="Violins 2: Decorative techniques"
+// Clone from iolins 1: Decorative techniques
+//! clone=68bfcf34-9d2b-76d6-5fe3-25caa7872da6
+Bank * * Violins 2: Decorative techniques
+
+//************************************************************************************
+//Strings: Solo Violin 2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violins" n="Solo Violin 2: All techniques"
+// Clone from Solo Violin 1: All techniques
+//! clone=fdb861d0-c826-843e-9776-4cfc637b3590
+Bank * * Solo Violin 2: All techniques
+
+//************************************************************************************
+//Strings: Violas: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violas" n="Violas: All techniques"
+//! m="Set patch to UACC"
+//! id=b14e4e3b-8468-eba5-b17e-9d6c67687c87
+Bank * * Violas: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long CS"
+//! c=long i=con-sord o=note:1
+1 Long CS
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:2
+2 Long Harmonics
+
+//"Long Flautando"
+//! c=long i=flautando o=note:3
+3 Long Flautando
+
+//"Long Sul Pont"
+//! c=long i=sul-pont o=note:4
+4 Long Sul Pont
+
+//"Long Sul C"
+//! c=long i=sul-g o=note:5
+5 Long Sul G
+
+//"Marcato Attack"
+//! c=short i=marcato-half o=note:6
+6 Marcato Attack
+
+//"Spiccato"
+//! c=short i=spiccato o=note:7
+7 Spiccato
+
+//"Short 0.5"
+//! c=short i=tenuto-eighth o=note:8
+8 Short 0.5
+
+//"Short 1.0"
+//! c=short i=tenuto-half o=note:9
+9 Short 1.0
+
+//"Short Brushed"
+//! c=short i=spiccato-brushed o=note:10
+10 Short Brushed
+
+//"Short Brushed CS"
+//! c=short i=spiccato-brushed-con-sord o=note:11
+11 Short Brushed CS
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:12
+12 Short Harmonics
+
+//"Short CS"
+//! c=short i=staccato-con-sord o=note:13
+13 Short CS
+
+//"Pizzicato"
+//! c=short i=pizz o=note:14
+14 Pizzicato
+
+//"Pizzicato Bartok"
+//! c=short i=pizz-bartok o=note:15
+15 Pizzicato Bartok
+
+//"Col Legno"
+//! c=short i=col-legno o=note:16
+16 Col Legno
+
+//"Long CS Sul Pont"
+//! c=long i=con-sord-sul-pont o=note:17
+17 Long CS Sul Pont
+
+//"Long Super Sul Tasto"
+//! c=long i=sul-tasto-super o=note:18
+18 Long Super Sul Tasto
+
+//"Long (Rachm.)"
+//! c=long i=vibrato o=note:19
+19 Long (Rachm.)
+
+//"Long CS Blend"
+//! c=long i=con-sord-blend o=note:20
+20 Long CS Blend
+
+//"Tremelo"
+//! c=long i=tremolo o=note:21
+21 Tremelo
+
+//"Trem Sul Pont"
+//! c=long i=tremolo-sul-pont o=note:22
+22 Trem Sul Pont
+
+//"Trem CS"
+//! c=long i=tremolo-con-sord o=note:23
+23 Trem CS
+
+//"Trem MS (150BPM)"
+//! c=long i=tremolo o=note:24
+24 Trem MS (150BPM)
+
+//"Trem MS (180BPM)"
+//! c=long i=tremolo o=note:25
+25 Trem MS (180BPM)
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:26
+26 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:27
+27 Trill (Major 2nd)
+
+//"Fx"
+//! c=fx i=fx o=note:28
+28 Fx
+
+//************************************************************************************
+//Strings: Violas: Core techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violas" n="Violas: Core techniques"
+//! m="Set patch to UACC"
+//! id=d8a43a84-4f54-d80f-d2bb-a9da6b210aef
+Bank * * Violas: Core techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long CS"
+//! c=long i=con-sord o=note:1
+1 Long CS
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:2
+2 Long Harmonics
+
+//"Long Flautando"
+//! c=long i=flautando o=note:3
+3 Long Flautando
+
+//"Long Sul Pont"
+//! c=long i=sul-pont o=note:4
+4 Long Sul Pont
+
+//"Long Sul C"
+//! c=long i=sul-g o=note:5
+5 Long Sul G
+
+//"Marcato Attack"
+//! c=short i=marcato-half o=note:6
+6 Marcato Attack
+
+//"Spiccato"
+//! c=short i=spiccato o=note:7
+7 Spiccato
+
+//"Short 0.5"
+//! c=short i=tenuto-eighth o=note:8
+8 Short 0.5
+
+//"Short 1.0"
+//! c=short i=tenuto-half o=note:9
+9 Short 1.0
+
+//"Short Brushed"
+//! c=short i=spiccato-brushed o=note:10
+10 Short Brushed
+
+//"Short Brushed CS"
+//! c=short i=spiccato-brushed-con-sord o=note:11
+11 Short Brushed CS
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:12
+12 Short Harmonics
+
+//"Short CS"
+//! c=short i=staccato-con-sord o=note:13
+13 Short CS
+
+//"Pizzicato"
+//! c=short i=pizz o=note:14
+14 Pizzicato
+
+//"Pizzicato Bartok"
+//! c=short i=pizz-bartok o=note:15
+15 Pizzicato Bartok
+
+//"Col Legno"
+//! c=short i=col-legno o=note:16
+16 Col Legno
+
+//************************************************************************************
+//Strings: Violas: Decorative techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violas" n="Violas: Decorative techniques"
+//! m="Set patch to UACC"
+//! id=1d5a84c4-f2f3-134e-3330-9adf54061faf
+Bank * * Violas: Decorative techniques
+
+//"Long CS Sul Pont"
+//! c=long i=con-sord-sul-pont o=note:0
+0 Long CS Sul Pont
+
+//"Long Super Sul Tasto"
+//! c=long i=sul-tasto-super o=note:1
+1 Long Super Sul Tasto
+
+//"Long (Rachm.)"
+//! c=long i=vibrato o=note:2
+2 Long (Rachm.)
+
+//"Long CS Blend"
+//! c=long i=con-sord-blend o=note:3
+3 Long CS Blend
+
+//"Tremelo"
+//! c=long i=tremolo o=note:4
+4 Tremelo
+
+//"Trem Sul Pont"
+//! c=long i=tremolo-sul-pont o=note:5
+5 Trem Sul Pont
+
+//"Trem CS"
+//! c=long i=tremolo-con-sord o=note:6
+6 Trem CS
+
+//"Trem MS (150BPM)"
+//! c=long i=tremolo o=note:7
+7 Trem MS (150BPM)
+
+//"Trem MS (180BPM)"
+//! c=long i=tremolo o=note:8
+8 Trem MS (180BPM)
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:9
+9 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:10
+10 Trill (Major 2nd)
+
+//"Fx"
+//! c=fx i=fx o=note:11
+11 Fx
+
+//************************************************************************************
+//Strings: Solo Viola: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Violas" n="Solo Viola: All techniques"
+//! m="Set patch to UACC"
+//! id=0b204432-6580-53b9-f694-799ba4e29c1d
+Bank * * Solo Viola: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Spiccato"
+//! c=short i=spiccato o=note:1
+1 Spiccato
+
+//"staccato"
+//! c=short i=staccato o=note:2
+2 staccato
+
+//"Pizzicato"
+//! c=short i=pizz o=note:3
+3 Pizzicato
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:4
+4 Short Harmonics
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:5
+5 Long Harmonics
+
+//************************************************************************************
+//Strings: Celli: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Celli" n="Celli: All techniques"
+// Clone from Violins 1: All techniques
+//! clone=337e6e05-dd3c-63be-b34b-0c03acd7cfec
+Bank * * Celli: All techniques
+
+//************************************************************************************
+//Strings: Celli: Core techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Celli" n="Celli: Core techniques"
+//! m="Set patch to UACC"
+Bank * * Celli: Core techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long CS"
+//! c=long i=con-sord o=note:1
+1 Long CS
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:2
+2 Long Harmonics
+
+//"Long Flautando"
+//! c=long i=flautando o=note:3
+3 Long Flautando
+
+//"Long Sul Pont"
+//! c=long i=sul-pont o=note:4
+4 Long Sul Pont
+
+//"Long Sul C"
+//! c=long i=sul-g o=note:5
+5 Long Sul G
+
+//"Marcato Attack"
+//! c=short i=marcato-half o=note:6
+6 Marcato Attack
+
+//"Spiccato"
+//! c=short i=spiccato o=note:7
+7 Spiccato
+
+//"Short 0.5"
+//! c=short i=tenuto-eighth o=note:8
+8 Short 0.5
+
+//"Short 1.0"
+//! c=short i=tenuto-half o=note:9
+9 Short 1.0
+
+//"Short Brushed"
+//! c=short i=spiccato-brushed o=note:10
+10 Short Brushed
+
+//"Short Brushed CS"
+//! c=short i=spiccato-brushed-con-sord o=note:11
+11 Short Brushed CS
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:12
+12 Short Harmonics
+
+//"Short CS"
+//! c=short i=staccato-con-sord o=note:13
+13 Short CS
+
+//"Pizzicato"
+//! c=short i=pizz o=note:14
+14 Pizzicato
+
+//"Pizzicato Bartok"
+//! c=short i=pizz-bartok o=note:15
+15 Pizzicato Bartok
+
+//"Col Legno"
+//! c=short i=col-legno o=note:16
+16 Col Legno
+
+//************************************************************************************
+//Strings: Celli: Decorative techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Celli" n="Celli: Decorative techniques"
+//! m="Set patch to UACC"
+Bank * * Celli: Decorative techniques
+
+//"Long CS Sul Pont"
+//! c=long i=con-sord-sul-pont o=note:0
+0 Long CS Sul Pont
+
+//"Long Super Sul Tasto"
+//! c=long i=sul-tasto-super o=note:1
+1 Long Super Sul Tasto
+
+//"Long (Rachm.)"
+//! c=long i=vibrato o=note:2
+2 Long (Rachm.)
+
+//"Long CS Blend"
+//! c=long i=con-sord-blend o=note:3
+3 Long CS Blend
+
+//"Tremelo"
+//! c=long i=tremolo o=note:4
+4 Tremelo
+
+//"Trem Sul Pont"
+//! c=long i=tremolo-sul-pont o=note:5
+5 Trem Sul Pont
+
+//"Trem CS"
+//! c=long i=tremolo-con-sord o=note:6
+6 Trem CS
+
+//"Trem CS MS (150BPM)"
+//! c=long i=tremolo o=note:7
+7 Trem CS MS (150BPM)
+
+//"Trem MS (150BPM)"
+//! c=long i=tremolo o=note:8
+8 Trem MS (150BPM)
+
+//"Trem MS (180BPM)"
+//! c=long i=tremolo o=note:9
+9 Trem MS (180BPM)
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:10
+10 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:11
+11 Trill (Major 2nd)
+
+//"Trill (Minor 3rd)"
+//! c=long i=trill-min2 o=note:12
+12 Trill (Minor 3rd)
+
+//"Trill (Major 3rd)"
+//! c=long i=trill-maj2 o=note:13
+13 Trill (Major 3rd)
+
+//"Fx"
+//! c=fx i=fx o=note:14
+14 Fx
+
+//************************************************************************************
+//Strings: Solo Cello: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Celli" n="Solo Cello: All techniques"
+// Clone from Solo Violin 1: All techniques
+Bank * * Solo Cello: All techniques
+
+//************************************************************************************
+//Strings: Basses: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Basses" n="Basses: All techniques"
+//! m="Set patch to UACC"
+Bank * * Basses: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:1
+1 Long Harmonics
+
+//"Long Flautando"
+//! c=long i=flautando o=note:2
+2 Long Flautando
+
+//"Long Sul Pont"
+//! c=long i=sul-pont o=note:3
+3 Long Sul Pont
+
+//"Marcato Attack"
+//! c=short i=marcato-half o=note:4
+4 Marcato Attack
+
+//"Spiccato"
+//! c=short i=spiccato o=note:5
+5 Spiccato
+
+//"Short 0.5"
+//! c=short i=tenuto-eighth o=note:6
+6 Short 0.5
+
+//"Short 1.0"
+//! c=short i=tenuto-half o=note:7
+7 Short 1.0
+
+//"Staccato Dig"
+//! c=short i=staccato-dig o=note:8
+8 Staccato Dig
+
+//"Short Spicc-Pizz"
+//! c=short i=pizz o=note:9
+9 Short Spicc-Pizz
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:10
+10 Short Harmonics
+
+//"Pizzicato"
+//! c=short i=pizz o=note:11
+11 Pizzicato
+
+//"Pizzicato Bartok"
+//! c=short i=pizz-bartok o=note:12
+12 Pizzicato Bartok
+
+//"Col Legno"
+//! c=short i=col-legno o=note:13
+13 Col Legno
+
+//"Long Super Sul Tasto"
+//! c=long i=sul-tasto-super o=note:14
+14 Long Super Sul Tasto
+
+//"Long Sul Pont (Dist)"
+//! c=long i=sul-pont o=note:15
+15 Long Sul Pont (Dist)
+
+//"Tremelo"
+//! c=long i=tremolo o=note:16
+16 Tremelo
+
+//"Trem Sul Pont"
+//! c=long i=tremolo-sul-pont o=note:17
+17 Trem Sul Pont
+
+//"Trem MS (150BPM)"
+//! c=long i=tremolo o=note:18
+18 Trem MS (150BPM)
+
+//"Trem MS (180BPM)"
+//! c=long i=tremolo o=note:19
+19 Trem MS (180BPM)
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:20
+20 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:21
+21 Trill (Major 2nd)
+
+//"Fx"
+//! c=fx i=fx o=note:22
+22 Fx
+
+//************************************************************************************
+//Strings: Basses: Core techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Basses" n="Basses: Core techniques"
+//! m="Set patch to UACC"
+Bank * * Basses: Core techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:1
+1 Long Harmonics
+
+//"Long Flautando"
+//! c=long i=flautando o=note:2
+2 Long Flautando
+
+//"Long Sul Pont"
+//! c=long i=sul-pont o=note:3
+3 Long Sul Pont
+
+//"Marcato Attack"
+//! c=short i=marcato-half o=note:4
+4 Marcato Attack
+
+//"Spiccato"
+//! c=short i=spiccato o=note:5
+5 Spiccato
+
+//"Short 0.5"
+//! c=short i=tenuto-eighth o=note:6
+6 Short 0.5
+
+//"Short 1.0"
+//! c=short i=tenuto-half o=note:7
+7 Short 1.0
+
+//"Staccato Dig"
+//! c=short i=staccato-dig o=note:8
+8 Staccato Dig
+
+//"Short Spicc-Pizz"
+//! c=short i=pizz o=note:9
+9 Short Spicc-Pizz
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:10
+10 Short Harmonics
+
+//"Pizzicato"
+//! c=short i=pizz o=note:11
+11 Pizzicato
+
+//"Pizzicato Bartok"
+//! c=short i=pizz-bartok o=note:12
+12 Pizzicato Bartok
+
+//"Col Legno"
+//! c=short i=col-legno o=note:13
+13 Col Legno
+
+//************************************************************************************
+//Strings: Basses: Decorative techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Basses" n="Basses: Decorative techniques"
+//! m="Set patch to UACC"
+Bank * * Basses: Decorative techniques
+
+//"Long Super Sul Tasto"
+//! c=long i=sul-tasto-super o=note:0
+0 Long Super Sul Tasto
+
+//"Long Sul Pont (Dist)"
+//! c=long i=sul-pont o=note:1
+1 Long Sul Pont (Dist)
+
+//"Tremelo"
+//! c=long i=tremolo o=note:2
+2 Tremelo
+
+//"Trem Sul Pont"
+//! c=long i=tremolo-sul-pont o=note:3
+3 Trem Sul Pont
+
+//"Trem MS (150BPM)"
+//! c=long i=tremolo o=note:4
+4 Trem MS (150BPM)
+
+//"Trem MS (180BPM)"
+//! c=long i=tremolo o=note:5
+5 Trem MS (180BPM)
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:6
+6 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:7
+7 Trill (Major 2nd)
+
+//"Fx"
+//! c=fx i=fx o=note:8
+8 Fx
+
+//************************************************************************************
+//Strings: Ensembles: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Ensembles" n="Ensembles: All techniques"
+//! m="Set patch to UACC"
+Bank * * Ensembles: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long CS"
+//! c=long i=con-sord o=note:1
+1 Long CS
+
+//"Long Flautando"
+//! c=long i=flautando o=note:2
+2 Long Flautando
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:3
+3 Long Harmonics
+
+//"Marcato Attack"
+//! c=short i=marcato-half o=note:4
+4 Marcato Attack
+
+//"Spiccato"
+//! c=short i=spiccato o=note:5
+5 Spiccato
+
+//"Short 0.5"
+//! c=short i=tenuto-eighth o=note:6
+6 Short 0.5
+
+//"Pizzicato"
+//! c=short i=pizz o=note:7
+7 Pizzicato
+
+//"Pizzicato Bartok"
+//! c=short i=pizz-bartok o=note:8
+8 Pizzicato Bartok
+
+//"Col Legno"
+//! c=short i=col-legno o=note:9
+9 Col Legno
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:10
+10 Short Harmonics
+
+//"Short Brushed"
+//! c=short i=spiccato-brushed o=note:11
+11 Short Brushed
+
+//"Short Brushed CS"
+//! c=short i=spiccato-brushed-con-sord o=note:12
+12 Short Brushed CS
+
+//"Spiccato CS"
+//! c=short i=spiccato o=note:13
+13 Spiccato CS
+
+//"Long CS Blend"
+//! c=long i=con-sord-blend o=note:14
+14 Long CS Blend
+
+//"Long Sul Pont"
+//! c=long i=sul-pont o=note:15
+15 Long Sul Pont
+
+//"Long Sul String"
+//! c=long i=sul-g o=note:16
+16 Long Sul String
+
+//"Long Super Sul Tasto"
+//! c=long i=sul-tasto-super o=note:17
+17 Long Super Sul Tasto
+
+//"Tremelo"
+//! c=long i=tremolo o=note:18
+18 Tremelo
+
+//"Trem CS"
+//! c=long i=tremolo-con-sord o=note:19
+19 Trem CS
+
+//"Trem Sul Pont"
+//! c=long i=tremolo-sul-pont o=note:20
+20 Trem Sul Pont
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:21
+21 Trill (Major 2nd)
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:22
+22 Trill (Minor 2nd)
+
+//************************************************************************************
+//Strings: Ensembles: Core techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Ensembles" n="Ensembles: Core techniques"
+//! m="Set patch to UACC"
+Bank * * Ensembles: Core techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long CS"
+//! c=long i=con-sord o=note:1
+1 Long CS
+
+//"Long Flautando"
+//! c=long i=flautando o=note:2
+2 Long Flautando
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:3
+3 Long Harmonics
+
+//"Marcato Attack"
+//! c=short i=marcato-half o=note:4
+4 Marcato Attack
+
+//"Spiccato"
+//! c=short i=spiccato o=note:5
+5 Spiccato
+
+//"Short 0.5"
+//! c=short i=tenuto-eighth o=note:6
+6 Short 0.5
+
+//"Pizzicato"
+//! c=short i=pizz o=note:7
+7 Pizzicato
+
+//"Pizzicato Bartok"
+//! c=short i=pizz-bartok o=note:8
+8 Pizzicato Bartok
+
+//"Col Legno"
+//! c=short i=col-legno o=note:9
+9 Col Legno
+
+//"Short Harmonics"
+//! c=short i=staccato-harmonics o=note:10
+10 Short Harmonics
+
+//"Short Brushed"
+//! c=short i=spiccato-brushed o=note:11
+11 Short Brushed
+
+//"Short Brushed CS"
+//! c=short i=spiccato-brushed-con-sord o=note:12
+12 Short Brushed CS
+
+//"Spiccato CS"
+//! c=short i=spiccato o=note:13
+13 Spiccato CS
+
+//************************************************************************************
+//Strings: Ensembles: Decorative techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Strings/Ensembles" n="Ensembles: Decorative techniques"
+//! m="Set patch to UACC"
+Bank * * Ensembles: Decorative techniques
+
+//"Long CS Blend"
+//! c=long i=con-sord-blend o=note:0
+0 Long CS Blend
+
+//"Long Sul Pont"
+//! c=long i=sul-pont o=note:1
+1 Long Sul Pont
+
+//"Long Sul String"
+//! c=long i=sul-g o=note:2
+2 Long Sul String
+
+//"Long Super Sul Tasto"
+//! c=long i=sul-tasto-super o=note:3
+3 Long Super Sul Tasto
+
+//"Tremelo"
+//! c=long i=tremolo o=note:4
+4 Tremelo
+
+//"Trem CS"
+//! c=long i=tremolo-con-sord o=note:5
+5 Trem CS
+
+//"Trem Sul Pont"
+//! c=long i=tremolo-sul-pont o=note:6
+6 Trem Sul Pont
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:7
+7 Trill (Major 2nd)
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:8
+8 Trill (Minor 2nd)
+
+//************************************************************************************
+//Brass: Trumpet Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Trumpet Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Trumpet Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long (Muted)"
+//! c=long i=con-sord o=note:1
+1 Long (Muted)
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Marcato (Muted)"
+//! c=short i=marcato-quarter o=note:3
+3 Marcato (Muted)
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:4
+4 Tenuto
+
+//"Tenuto (Muted)"
+//! c=short i=tenuto-eighth o=note:5
+5 Tenuto (Muted)
+
+//"staccato"
+//! c=short i=staccato o=note:6
+6 staccato
+
+//"staccato (Muted)"
+//! c=short i=staccato o=note:7
+7 staccato (Muted)
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:8
+8 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:9
+9 Trill (Major 2nd)
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:10
+10 Multi Tongued
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:11
+11 Long Flutter
+
+//"Long Mariachi"
+//! c=short i=vibrato-molto o=note:12
+12 Long Mariachi
+
+//"Rip"
+//! c=short i=rip o=note:13
+13 Rip
+
+//"Fall"
+//! c=short i=fall o=note:14
+14 Fall
+
+//"Fx Glissandi"
+//! c=short i=fx o=note:15
+15 Fx Glissandi
+
+//************************************************************************************
+//Brass: Trumpets a2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Trumpets a2: All techniques"
+//! m="Set patch to UACC"
+Bank * * Trumpets a2: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long (Muted)"
+//! c=long i=con-sord o=note:1
+1 Long (Muted)
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:5
+5 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:6
+6 Trill (Major 2nd)
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:7
+7 Multi Tongued
+
+//"Long Mariachi"
+//! c=short i=vibrato-molto o=note:8
+8 Long Mariachi
+
+//"Rip"
+//! c=short i=rip o=note:9
+9 Rip
+
+//"Fall"
+//! c=short i=fall o=note:10
+10 Fall
+
+//************************************************************************************
+//Brass: Trumpets a6: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Trumpets a6: All techniques"
+//! m="Set patch to UACC"
+Bank * * Trumpets a6: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:5
+5 Multi Tongued
+
+//"Rip"
+//! c=short i=rip o=note:6
+6 Rip
+
+//"Fall"
+//! c=short i=fall o=note:7
+7 Fall
+
+//************************************************************************************
+//Brass: Horn Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Horn Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Horn Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:1
+1 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:2
+2 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:3
+3 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:4
+4 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:5
+5 Trill (Major 2nd)
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:6
+6 Long Flutter
+
+//"Rip"
+//! c=short i=rip o=note:7
+7 Rip
+
+//"Fall"
+//! c=short i=fall o=note:8
+8 Fall
+
+//************************************************************************************
+//Brass: Horns a2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Horns a2: All techniques"
+//! m="Set patch to UACC"
+Bank * * Horns a2: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Long Stopped"
+//! c=long i=stopped o=note:2
+2 Long Stopped
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:3
+3 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:4
+4 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:5
+5 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:6
+6 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:7
+7 Trill (Major 2nd)
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:8
+8 Multi Tongued
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:9
+9 Long Flutter
+
+//"Bells up Staccato"
+//! c=short i=staccato o=note:10
+10 Bells up Staccato
+
+//"Bells up Quaver"
+//! c=short i=note-eighth o=note:11
+11 Bells up Quaver
+
+//"Bells up Crotchet"
+//! c=short i=note-quarter o=note:12
+12 Bells up Crotchet
+
+//"Bells up Long"
+//! c=short i=note-whole o=note:13
+13 Bells up Long
+
+//"Rip"
+//! c=short i=rip o=note:14
+14 Rip
+
+//"Fall"
+//! c=short i=fall o=note:15
+15 Fall
+
+//************************************************************************************
+//Brass: Horns a6: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Horns a6: All techniques"
+//! m="Set patch to UACC"
+Bank * * Horns a6: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:5
+5 Multi Tongued
+
+//"Rip"
+//! c=short i=rip o=note:6
+6 Rip
+
+//"Fall"
+//! c=short i=fall o=note:7
+7 Fall
+
+//************************************************************************************
+//Brass: Tenor Trombone Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Tenor Trombone Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Tenor Trombone Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Long (Muted)"
+//! c=long i=con-sord o=note:2
+2 Long (Muted)
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:3
+3 Marcato
+
+//"Marcato (Muted)"
+//! c=short i=marcato-quarter o=note:4
+4 Marcato (Muted)
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:5
+5 Tenuto
+
+//"Tenuto (Muted)"
+//! c=short i=tenuto-eighth o=note:6
+6 Tenuto (Muted)
+
+//"staccato"
+//! c=short i=staccato o=note:7
+7 staccato
+
+//"staccato (Muted)"
+//! c=short i=staccato o=note:8
+8 staccato (Muted)
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:9
+9 Multi Tongued
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:10
+10 Long Flutter
+
+//"Long Flutter (Muted)"
+//! c=short i=tremolo o=note:11
+11 Long Flutter (Muted)
+
+//"Rip"
+//! c=short i=rip o=note:12
+12 Rip
+
+//"Fall"
+//! c=short i=fall o=note:13
+13 Fall
+
+//************************************************************************************
+//Brass: Tenor Trombones a2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Tenor Trombones a2: All techniques"
+//! m="Set patch to UACC"
+Bank * * Tenor Trombones a2: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:5
+5 Multi Tongued
+
+//"Fx Glissandi"
+//! c=short i=fx o=note:6
+6 Fx Glissandi
+
+//"Rip"
+//! c=short i=rip o=note:7
+7 Rip
+
+//"Fall"
+//! c=short i=fall o=note:8
+8 Fall
+
+//************************************************************************************
+//Brass: Trombones a6: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Trombones a6: All techniques"
+//! m="Set patch to UACC"
+Bank * * Trombones a6: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:5
+5 Multi Tongued
+
+//"Rip"
+//! c=short i=rip o=note:6
+6 Rip
+
+//"Fall"
+//! c=short i=fall o=note:7
+7 Fall
+
+//************************************************************************************
+//Brass: Bass Trombone Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Bass Trombone Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Bass Trombone Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:5
+5 Multi Tongued
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:6
+6 Long Flutter
+
+//"Rip"
+//! c=short i=rip o=note:7
+7 Rip
+
+//"Fall"
+//! c=short i=fall o=note:8
+8 Fall
+
+//************************************************************************************
+//Brass: Bass Trombones a2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Bass Trombones a2: All techniques"
+//! m="Set patch to UACC"
+Bank * * Bass Trombones a2: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:5
+5 Multi Tongued
+
+//"Rip"
+//! c=short i=rip o=note:6
+6 Rip
+
+//"Fall"
+//! c=short i=fall o=note:7
+7 Fall
+
+//"Fx Glissandi"
+//! c=short i=fx o=note:8
+8 Fx Glissandi
+
+//************************************************************************************
+//Brass: Contrabass Trombone Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Contrabass Trombone Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Contrabass Trombone Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Long Stopped"
+//! c=long i=stopped o=note:2
+2 Long Stopped
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:3
+3 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:4
+4 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:5
+5 staccato
+
+//"staccato (Muted)"
+//! c=short i=staccato o=note:6
+6 staccato (Muted)
+
+//"Rip"
+//! c=short i=rip o=note:7
+7 Rip
+
+//"Fall"
+//! c=short i=fall o=note:8
+8 Fall
+
+//************************************************************************************
+//Brass: Cimbassi a2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Cimbassi a2: All techniques"
+//! m="Set patch to UACC"
+Bank * * Cimbassi a2: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Rip"
+//! c=short i=rip o=note:5
+5 Rip
+
+//"Fall"
+//! c=short i=fall o=note:6
+6 Fall
+
+//************************************************************************************
+//Brass: Cimbasso Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Cimbasso Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Cimbasso Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Cuivre"
+//! c=long i=cuivre o=note:1
+1 Long Cuivre
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Rip"
+//! c=short i=rip o=note:5
+5 Rip
+
+//"Fall"
+//! c=short i=fall o=note:6
+6 Fall
+
+//************************************************************************************
+//Brass: Tuba Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Tuba Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Tuba Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Stopped"
+//! c=long i=stopped o=note:1
+1 Long Stopped
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Short Stopped"
+//! c=long i=staccato-stopped o=note:5
+5 Short Stopped
+
+//"Rip"
+//! c=short i=rip o=note:6
+6 Rip
+
+//"Fall"
+//! c=short i=fall o=note:7
+7 Fall
+
+//************************************************************************************
+//Brass: Contrabass Tuba Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Brass" n="Contrabass Tuba Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Contrabass Tuba Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:1
+1 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:2
+2 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:3
+3 staccato
+
+//"Rip"
+//! c=short i=rip o=note:4
+4 Rip
+
+//"Fall"
+//! c=short i=fall o=note:5
+5 Fall
+
+//************************************************************************************
+//Woodwinds: Piccolo Flute: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Piccolo Flute: All techniques"
+//! m="Set patch to UACC"
+Bank * * Piccolo Flute: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:1
+1 Long Flutter
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:2
+2 Long Harmonics
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:3
+3 Multi Tongued
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:4
+4 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:5
+5 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:6
+6 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:7
+7 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:8
+8 Trill (Major 2nd)
+
+//************************************************************************************
+//Woodwinds: Flute Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Flute Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Flute Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:1
+1 Long Flutter
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:2
+2 Long Harmonics
+
+//"Long Hollow"
+//! c=long i=harmonics-natural o=note:3
+3 Long Hollow
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:4
+4 Multi Tongued
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:5
+5 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:6
+6 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:7
+7 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:8
+8 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:9
+9 Trill (Major 2nd)
+
+//************************************************************************************
+//Woodwinds: Flutes a2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Flutes a2: All techniques"
+//! m="Set patch to UACC"
+Bank * * Flutes a2: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:1
+1 Long Flutter
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:2
+2 Long Harmonics
+
+//"Long Overblown"
+//! c=long i=tremolo-ghost o=note:3
+3 Long Overblown
+
+//"Long Hollow"
+//! c=long i=harmonics-natural o=note:4
+4 Long Hollow
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:5
+5 Multi Tongued
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:6
+6 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:7
+7 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:8
+8 staccato
+
+//"Short Overblown"
+//! c=long i=staccato-stopped o=note:9
+9 Short Overblown
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:10
+10 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:11
+11 Trill (Major 2nd)
+
+//"Marcato SFZ"
+//! c=short i=staccato-sfz o=note:12
+12 Marcato SFZ
+
+//************************************************************************************
+//Woodwinds: Alto Flute: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Alto Flute: All techniques"
+//! m="Set patch to UACC"
+Bank * * Alto Flute: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:1
+1 Long Flutter
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:2
+2 Long Harmonics
+
+//"Long Overblown"
+//! c=long i=tremolo-ghost o=note:3
+3 Long Overblown
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:4
+4 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:5
+5 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:6
+6 staccato
+
+//"Short Overblown"
+//! c=long i=staccato-stopped o=note:7
+7 Short Overblown
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:8
+8 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:9
+9 Trill (Major 2nd)
+
+//************************************************************************************
+//Woodwinds: Bass Flute: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Bass Flute: All techniques"
+//! m="Set patch to UACC"
+Bank * * Bass Flute: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:1
+1 Long Flutter
+
+//"Long Overblown"
+//! c=long i=tremolo-ghost o=note:2
+2 Long Overblown
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:3
+3 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:4
+4 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:5
+5 staccato
+
+//************************************************************************************
+//Woodwinds: Oboe Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Oboe Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Oboe Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:1
+1 Long Flutter
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:2
+2 Multi Tongued
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:3
+3 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:4
+4 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:5
+5 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:6
+6 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:7
+7 Trill (Major 2nd)
+
+//************************************************************************************
+//Woodwinds: Oboes a2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Oboes a2: All techniques"
+//! m="Set patch to UACC"
+Bank * * Oboes a2: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:1
+1 Long Flutter
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"staccato"
+//! c=short i=staccato o=note:3
+3 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:4
+4 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:5
+5 Trill (Major 2nd)
+
+//************************************************************************************
+//Woodwinds: Cor Anglais: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Cor Anglais: All techniques"
+//! m="Set patch to UACC"
+Bank * * Cor Anglais: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:1
+1 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:2
+2 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:3
+3 staccato
+
+//************************************************************************************
+//Woodwinds: Clarinet Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Clarinet Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Clarinet Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:1
+1 Long Flutter
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:2
+2 Multi Tongued
+
+//"staccato"
+//! c=short i=staccato o=note:3
+3 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:4
+4 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:5
+5 Trill (Major 2nd)
+
+//************************************************************************************
+//Woodwinds: Clarinets a2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Clarinets a2: All techniques"
+//! m="Set patch to UACC"
+Bank * * Clarinets a2: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:1
+1 Multi Tongued
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:2
+2 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:3
+3 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:4
+4 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:5
+5 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:6
+6 Trill (Major 2nd)
+
+//************************************************************************************
+//Woodwinds: Bass Clarinet: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Bass Clarinet: All techniques"
+//! m="Set patch to UACC"
+Bank * * Bass Clarinet: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:1
+1 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:2
+2 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:3
+3 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:4
+4 Trill (Major 2nd)
+
+//************************************************************************************
+//Woodwinds: Contrabass Clarinet: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Contrabass Clarinet: All techniques"
+//! m="Set patch to UACC"
+Bank * * Contrabass Clarinet: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:1
+1 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:2
+2 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:3
+3 staccato
+
+//************************************************************************************
+//Woodwinds: Bassoon Solo: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Bassoon Solo: All techniques"
+//! m="Set patch to UACC"
+Bank * * Bassoon Solo: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:1
+1 Long Flutter
+
+//"Long Harmonics"
+//! c=long i=harmonics o=note:2
+2 Long Harmonics
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:3
+3 Multi Tongued
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:4
+4 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:5
+5 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:6
+6 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:7
+7 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:8
+8 Trill (Major 2nd)
+
+//************************************************************************************
+//Woodwinds: Bassoons a2: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="Bassoons a2: All techniques"
+//! m="Set patch to UACC"
+Bank * * Bassoons a2: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Long Flutter"
+//! c=short i=tremolo o=note:1
+1 Long Flutter
+
+//"Multi Tongued"
+//! c=short i=multitongued o=note:2
+2 Multi Tongued
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:3
+3 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:4
+4 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:5
+5 staccato
+
+//"Trill (Minor 2nd)"
+//! c=long i=trill-min2 o=note:6
+6 Trill (Minor 2nd)
+
+//"Trill (Major 2nd)"
+//! c=long i=trill-maj2 o=note:7
+7 Trill (Major 2nd)
+
+//************************************************************************************
+//Woodwinds: ContraBassoon: All techniques
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Woodwinds" n="ContraBassoon: All techniques"
+//! m="Set patch to UACC"
+Bank * * ContraBassoon: All techniques
+
+//"Long"
+//! c=long i=note-whole o=note:0
+0 Long
+
+//"Marcato"
+//! c=short i=marcato-quarter o=note:1
+1 Marcato
+
+//"Tenuto"
+//! c=short i=tenuto-eighth o=note:2
+2 Tenuto
+
+//"staccato"
+//! c=short i=staccato o=note:3
+3 staccato
+
+//************************************************************************************
+//Percussion: Harp
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Percussion" n="Harp"
+//! m="Set patch to UACC"
+Bank * * Harp
+
+//"Normale"
+//! c=short i=note-eighth o=note:0
+0 Normale
+
+//"PDLT"
+//! c=short i=harp-pdlt o=note:1
+1 PDLT
+
+//"Flageolet"
+//! c=short i=harmonics-natural-eighth o=note:2
+2 Flageolet
+
+//"staccato"
+//! c=short i=staccato o=note:2
+3 staccato
+
+//"Slid"
+//! c=short i=run-major o=note:3
+4 Slid
+
+//"Bisbigliando"
+//! c=long i=tremolo o=note:4
+5 Bisbigliando
+
+//"Fx"
+//! c=fx i=fx o=note:5
+6 Fx
+
+//************************************************************************************
+//Percussion: Harp Glissandi
+//************************************************************************************
+//! g="Spitfire/Symphony Orchestra/Percussion" n="Harp Glissandi"
+//! m="Set patch to UACC"
+Bank * * Harp Glissandi
+
+//"Whole"
+//! c=short i=legato-portamento o=note:0
+0 Whole
+
+//"Minor H"
+//! c=short i=legato-portamento o=note:1
+1 Minor H
+
+//"Minor M"
+//! c=short i=legato-portamento o=note:2
+2 Minor M
+
+//"Major"
+//! c=short i=legato-portamento o=note:3
+3 Major
+
+//"Pentatonic"
+//! c=short i=legato-portamento o=note:4
+4 Pentatonic
+
+//"Diminished"
+//! c=short i=legato-portamento o=note:5
+5 Diminished
